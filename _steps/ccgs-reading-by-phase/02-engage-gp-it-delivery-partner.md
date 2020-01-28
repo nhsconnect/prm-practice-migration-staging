@@ -10,7 +10,7 @@ group: ccgs-reading-by-phase
 
 #### Do you have an agreed date for when the practice will Go-Live on the new solution?
 
-* [Agree a provisional Go Live date](/prm-practice-migration/guide#agree-a-provisional-go-live-date)
+* [Agree a provisional Go-Live date](/prm-practice-migration/guide#agree-a-provisional-go-live-date)
 
 * [Checking the dates against availability](/prm-practice-migration/guide/kick-off#check-dates-against-availability)
 
