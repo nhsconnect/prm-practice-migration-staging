@@ -6,7 +6,7 @@ order: 10
 group: migration-key-phases
 ---
 
-Training can happen throughout the end to end migration process. Ideally, the foundation training should happen as close to Go Live as possible.
+Training can happen throughout the end-to-end migration process. Ideally, training on the new solution should happen as close to Go-Live as possible.
 
 <!-- [UPLIFT] removed italics -->
 
