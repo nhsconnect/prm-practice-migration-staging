@@ -6,4 +6,4 @@ order: 9
 group: migration-key-phases
 ---
 
-Preparation and activities to reduce the impact of the Cut-over & data re-entry
+Preparation and activities to reduce the impact of the Cutover & data re-entry
