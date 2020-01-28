@@ -6,4 +6,4 @@ order: 14
 group: migration-key-phases
 ---
 
-Practice staff re-enter data for Appointments, Prescriptions etc that took place during the Cut-over period
+Practice staff re-enter data for Appointments, Prescriptions etc that took place during the Cutover period
