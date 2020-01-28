@@ -6,21 +6,21 @@ order: 3
 group: practice-manager-staff-reading-by-phase
 ---
 
-* Do you have start/finish dates for the [cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
+* Do you have start/finish dates for the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
 
 * [Do you have a list and plan for each 3rd party service that will need to make changes during the cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
 
 * Have you identified what letter templates you will need to recreate in the new solution?
 
-* Have you identified what Data entry templates you will need to recreate in the new solution?
+* Have you identified what data entry templates you will need to recreate in the new solution?
 
 * Have you cleared down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration
 
 * Do you know the exact date/time when the final data extract will be taken?
 
-* At the time of the final data extract, have you ensured that all users are logged off the existing supplier solution (source) so that the supplier can do the data extraction?
+* At the time of the Final Data Extract, have you ensured that all users are logged off the current supplier solution so that the supplier can do the data extraction?
 
-#### Do you have a plan for how you will handle the following during the cutover? 
+#### Do you have a plan for how you will handle the following during Cutover? 
 <!-- [GAP] Will need to be restructured based on GP2GP -->
 <!-- [Update] Links have been updated -->
 * [Appointments](/prm-practice-migration/guide/planning-for-cut-over#appointments)
