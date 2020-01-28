@@ -6,4 +6,4 @@ order: 8
 group: migration-key-phases
 ---
 
-Rechecking the data after the new supplier (target) has amended any issues found before signing off that the data is accurate and the Practice is satisfied with the quality of the data
+Rechecking the data after the new supplier has amended any issues found before signing off that the data is accurate and the practice is satisfied with the quality of the data
