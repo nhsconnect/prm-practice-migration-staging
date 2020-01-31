@@ -17,7 +17,7 @@ This guide begins from the point at which the Clinical Commissioning Group (CCG)
 
 Note: This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
 
-Prior to this, there are a number of steps that will have been completed such as:
+Prior to this, there are a number of steps that will have been completed, such as:
 
 * Practice completes a selection process under the GP IT Futures framework
 <!-- [UPLIFT] Added reference to the need for the selection process -->
@@ -37,9 +37,9 @@ Once the decision to migrate has been confirmed, the next steps are to:
 
 ### Agree a provisional Go Live date
 
-A preferred Go Live date needs to be agreed between the Practice and the supporting functions  - usually the Clinical Commissioning Group (CCG) and a GP IT delivery partner (such as a Commissioning Support Unit). 
+A preferred Go-Live date needs to be agreed between the practice and the supporting functions  - usually the Clinical Commissioning Group (CCG) and a GP IT delivery partner (such as a Commissioning Support Unit). 
 
-A proposed go-live date should be agreed between the practice, Clinical Commissioning Group (CCG) and GP IT delivery partner. 
+A proposed Go-Live date should be agreed between the practice, Clinical Commissioning Group (CCG) and GP IT delivery partner. 
 
 This proposed date should be agreed with the new clinical solution supplier.
 
