@@ -4,7 +4,7 @@ title: Practice managers and staff
 permalink: /guide/role/practice-staff
 ---
 
-Migrations take a lot of planning and effort from Practice staff. This guide aims to break down the activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
+Migrations take a lot of planning and effort from practice staff. This guide aims to break down the activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable.
 
 Below you will find a summary of the key activities and phases the practice will need to complete during a migration. The practice will generally be involved with all the phases from start to finish. 
 
