@@ -10,9 +10,9 @@ show_hero: true
 <!-- [UPLIFT] replaced the word 'system' with 'solution'-->
 ## About this guide
 
-This guide aims to help Practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one principal clinical solution to another. 
+This guide aims to help practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one foundation clinical solution to another. 
 
-Whilst approaches to migration can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating solutions.
+Whilst approaches to migration can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to practice staff and minimising the amount of manual data re-entry which is a common problem when migrating solutions.
 <!-- [UPLIFT] replaced 'migrating' with 'migration'-->
 <!-- [UPLIFT] replaced the word 'system' with 'solution'. Assume all subsequent references to 'system' will be replaced with 'solution'-->
 {%- include button.html title="Read the guide" link="/guide" -%}
