@@ -10,7 +10,7 @@ breadcrumbparent: /guide
 <!-- [UPLIFT] added the word 'meeting' -->
 ## Purpose of Kick-off Meeting
 <!-- [UPLIFT] changed sub-heading from 'What is a Kick-off?' -->
-A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end to end process of migrating your solution. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
+A ‘Kick-off’ is where you gather all the key people who will be involved in your migration to discuss the end-to-end process of migrating your solution. The objective is to assign roles and get everyone on the same page about what needs to happen and when.
 
 
 ### As a priority, you should discuss...
@@ -47,19 +47,19 @@ A ‘Kick-off’ is where you gather all the key people who will be involved in 
 
 ### For the Kick-off meeting, you should involve at a minimum...
 
-* The migration Project manager - This may be a representative from your GP IT delivery partner (such as a Commissioning Support Unit), the Clinical Commissioning Group or in some cases the Practice manager or lead GP
+* The migration Project Manager, who may be a representative from your GP IT delivery partner (such as a Commissioning Support Unit), the Clinical Commissioning Group or in some cases the Practice Manager or Lead GP
 
 
-* Practice managers - Including any staff that will play a role in managing/supporting the migration
+* Practice Managers - including any staff that will play a role in managing/supporting the migration
 
 
-* Target solution supplier - The supplier of the clinical solution you are moving to
+* New solution supplier - the supplier of the clinical solution you are moving to
 
-Note: When the GP IT delivery partner (such as a Commissioning Support Unit) is leading the migration, they may invite other personnel to the Kick-off such as Business change, Training leads, Data quality etc.
+Note: When the GP IT delivery partner (such as a Commissioning Support Unit) is leading the migration, they may invite other personnel to the Kick-off such as Business Change, Training Leads, Data Quality Leads etc.
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. For example, you should have a plan for the following dates:
+By now you should have agreed on your Go-Live date. Take a look at the [surrounding phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when any activities need to be completed (Use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. For example, you should have a plan for the following dates:
 
 * Clinical Risk Assessments <!-- [UPLIFT] added reference to Clinical Risk Assessment -->
 <!-- [GAP] need to check whether this assessment is the same as the supplier submitting a 'Clinical Safety Health Report and Hazard Log'; see Step 2 of the Ancillary Document -->
