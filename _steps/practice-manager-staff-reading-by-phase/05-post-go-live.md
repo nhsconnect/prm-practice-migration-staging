@@ -14,7 +14,7 @@ group: practice-manager-staff-reading-by-phase
 
 * [Do you still have access to the old solution?](/prm-practice-migration/guide/post-go-live#access-to-the-old-system)
 
-* [Do you have dedicated people and known methods for data re-entry after Go-Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
+* [Do you have dedicated people and known methods for data re-entry after Go-Live?](/prm-practice-migration/guide/post-go-live#data-re-entry)
 
 <!-- * [Have you updated the tracking database to confirm the date you have migrated and to indicate payments to suppliers can be made?](/prm-practice-migration/guide/end-of-migration#update-the-tracking-database) >
 <!-- [GAP] need to clarify how to confirm the date you have migrated and how to indicate payments to suppliers can be made? -->
