@@ -6,17 +6,17 @@ order: 1
 group: project-manager-reading-by-phase
 ---
 
-#### Do you have an agreed date for when the practice will Go Live on the new solution?
+#### Do you have an agreed date for when the practice will Go-Live on the new solution?
 
-* [Agree a provisional Go Live date](/prm-practice-migration/guide#agree-a-provisional-go-live-date)
+* [Agree a provisional Go-Live date](/prm-practice-migration/guide#agree-a-provisional-go-live-date)
 
 * [Checking the dates against availability](/prm-practice-migration/guide/kick-off#check-dates-against-availability)
 
-* [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#secure-your-dates-and-peoples-time)
+* [Securing the dates and people's time](/prm-practice-migration/guide/kick-off#secure-your-dates-and-peoples-time)
 
-* [Has the new supplier (target) confirmed the Go Live date?](/prm-practice-migration/guide/get-started#procure-the-new-system)
+* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#procure-the-new-system)
 
-* [Has the existing supplier (source) been notified?](/prm-practice-migration/guide/get-started#decommission-the-existingold-system-system)
+* [Has the current supplier been notified?](/prm-practice-migration/guide/get-started#decommission-the-existingold-system-system)
 
 
 #### Has the Practice requested an extract of the current data?
@@ -34,7 +34,7 @@ group: project-manager-reading-by-phase
 
 * [Is a reconcilitation needed with the Personal Demographics Service (PDS)?](/prm-practice-migration/guide/pre-migration-tasks#is-a-reconciliation-needed)
 
-* Do you have booked rooms for initial data production meetings, training and data checking activities?
+* Do you have booked rooms for Initial Data Production meetings, training and data checking activities?
 
 #### Has the practice notified 3rd party solutions and links?
 
@@ -45,7 +45,7 @@ group: project-manager-reading-by-phase
 
 * [Notify patients](/prm-practice-migration/guide/pre-migration-tasks#notification-of-patients)
 
-#### Have you had a Technical survey?
+#### Have you had a Technical Survey?
 
 * [What is a Technical survey?](/prm-practice-migration/guide/technical-survey)
 
