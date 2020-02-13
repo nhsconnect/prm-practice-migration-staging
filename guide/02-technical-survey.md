@@ -32,7 +32,7 @@ The Technical Survey can be completed by the new supplier, or in some cases by a
 Make sure to check to see who will complete this activity.
 
 [As previously noted](/prm-practice-migration/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical solution and agree any actions required for implementation. The new supplier may be aware of the compatability/incompatability of common 3rd party applications but is not accountable for confirming.
-
+<!-- [GAP] check that the link directly above 'As previously noted' works -->
 
 
 ## The outcome of the Technical Survey {#outcome-of-the-technical-survey}
