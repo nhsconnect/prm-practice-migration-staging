@@ -6,14 +6,9 @@ subtitle:
 nextpage: /guide/get-started
 ---
 
+This guide aims to help practices, GP IT delivery partners (referred to as ‘delivery partner’ throughout the guide) and Commissioning Clinical Groups (CCGs) plan and implement migrations from one foundation system (also known as ‘solution’) to another. Approaches to migration can differ by region. This guide contains a collection of common processes and activities to help the migration run smoothly.
 
-This guide aims to help Practices, GP IT delivery partners (such as Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and implement migrations from one clinical solution to another. 
-<!-- [UPLIFT] removed the word 'migration' -->
-<!-- [UPLIFT] replaced 'system' with 'solution' -->
-Approaches to migration can differ by region. This guide contains a collection of common phases and strategies aimed at reducing the impact to Practice staff and minimising the amount of manual data re-entry which is a common problem when migrating solutions.
-
-The guide does not cover everything that may need to happen in your migration but it will cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
-<!-- [UPLIFT] Added disclaimer to mention that the guide is not exhaustive in terms of reflecting all changes in the GP IT F framework -->
+This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
 
 Two key documents are referenced throughout this guide:
 <!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
@@ -22,10 +17,9 @@ Two key documents are referenced throughout this guide:
 >* GP IT Futures Data Migration Standard
 <!-- [GAP] Data Migration is not yet publicly available to those without Confluence access. We will need to find a place where this document is stored online. -->
 
-When you see reference to an 'SLA', this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a 'DMI' code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those Solutions, which are registered on the GP IT Futures Catalogue or Framework.
-<!-- [UPLIFT] Added explanation regarding how that additional content appears when lifted from those documents. Also added qualifier to explain that DMI requirements only apply to registered solutions, as per the Data Migration Standard -->
+When you see reference to an ‘SLA’, this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a ‘DMI’ code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those solutions, which are registered on the GP IT Futures Catalogue or Framework.
 
-<br>Performing a migration inevitably involves access to - and processing of - significant amounts of sensitive personal information. It's crucial, therefore, that all parties involved are compliant with the following laws, policies, standards and guidelines in respect to Information Governance:
+Performing a migration inevitably involves access to - and processing of - significant amounts of patients’  personal data. It’s crucial, therefore, that all parties involved adhere to the laws, policies, standards and guidelines in respect to Information Governance, including:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
@@ -39,18 +33,11 @@ When you see reference to an 'SLA', this is a Service Level Agreement that appea
 
 ## How long does a migration take?
 
-Migrations on average take between 12-16 weeks. This is from the point of registering the intent to migrate on the Catalogue to the end of the [Post Go Live](/prm-practice-migration/guide/post-go-live) activities.
-
-<!-- [UPLIFT] Replaced 'activity is complete' with 'activities'-->
-
-<!-- [GAP] Need to add details that explain how to register intent to migrate via the Catalogue -->
-<!-- [GAP] Do we need to retain reference to the Tracking Database here? -->
-<!-- [GAP] Should we add something like 'process to be confirmed' within the actual guide? -->
+The end to end migration process takes between 12-16 weeks. This is from the point of placing the order for the new solution to the end of the  migration process.
 
 
 ## Overview of key phases
 
-Migrations require a lot of planning and effort from practice staff, breaking this activity into smaller incremental steps will help ease the pressure and make the migration effort more sustainable. 
-Here is an overview of the key phases...
+Migrations require a lot of planning and effort from practice staff. Breaking this activity into smaller incremental steps will make this process easier to manage. Here is an overview of the key phases…
 
 {%- include steps/steps.html group='migration-key-phases' -%}
