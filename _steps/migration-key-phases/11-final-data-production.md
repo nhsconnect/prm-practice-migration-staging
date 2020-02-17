@@ -6,6 +6,4 @@ order: 11
 group: migration-key-phases
 ---
 
-The final data extract is taken and is provided to the new supplier, who imports it into the new solution. From this point in time, any changes to records in the current solution will not be migrated.
-
-<!-- [UPLIFT] replaced 'system' with 'solution' -->
+The final data extract is provided to the new supplier by the current supplier. The data is then imported into the live version of the new system. From this point in time, any changes to records in the current system will not be migrated into the new one.
