@@ -6,9 +6,4 @@ order: 10
 group: migration-key-phases
 ---
 
-Training can happen throughout the end-to-end migration process. Ideally, training on the new solution should happen as close to Go-Live as possible.
-
-<!-- [UPLIFT] removed italics -->
-
-<!-- [UPLIFT] replaced 'core' with 'foundation' -->
-
+Training can happen throughout the end to end migration process. Generally this can take place over a period of 2-3 weeks immediately prior to Go-Live.
