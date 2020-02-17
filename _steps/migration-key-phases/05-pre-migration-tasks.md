@@ -6,4 +6,4 @@ order: 5
 group: migration-key-phases
 ---
 
-Critical activities practices can start doing to get ahead and prepare for the later stages such as cleaning current data, notifying 3rd Party services and patients 
+Critical activities practices can start doing to get ahead and prepare for the later stages such as cleaning current data and notifying third party services and patients 
