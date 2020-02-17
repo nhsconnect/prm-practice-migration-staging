@@ -1,7 +1,7 @@
 ---
 title: Cutover period
 title_url: /guide/cutover-and-go-live
-subtitle: new SLA is 3 days although many suppliers and practices may require up to 2 weeks
+subtitle: The new SLA under GP IT Futures is 3 days although many suppliers and practices may require up to 2 weeks
 order: 12
 group: migration-key-phases
 ---
