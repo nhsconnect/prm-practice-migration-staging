@@ -139,10 +139,11 @@ Make a list of all the supporting/connecting systems and community services that
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
 * [Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, AccuRx, DispensIT, eConsultation provider)
-<!-- removed based on user feedback
+
+<!--removed based on user feedback
 * [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
 * [GP2GP](https://digital.nhs.uk/services/gp2gp)
-* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) -->
+* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)-->
 
 Plan and schedule how you will notify them of your change of system. The earlier you give notice of your Cutover and Go-Live dates the better. The notice period required will vary depending on the service.
 
