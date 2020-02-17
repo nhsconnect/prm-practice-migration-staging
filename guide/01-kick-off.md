@@ -126,42 +126,32 @@ Now is also a good time to introduce the [Data Checking tasks](/prm-practice-mig
 
 ### Technical survey and hardware {#technical-survey}
 
-If the practice is not already aware, the [Technical Survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the practice and Clinical Commissioning Group are aware of this possibility before the Technical survey is completed.
+If the practice is not already aware, the [Technical Survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the practice and CCG are aware of this possibility before the Technical Survey is completed.
 
-Compile a list of third party software that integrate with the current GP clinical solution.
+Compile a list of third party software that integrates with the current system.
 
-Please note that it is the responsibility of the practice to ensure that thay have contacted their third party software suppliers to check if the software is compatible with the new GP clinical solution and agree any actions required for implementation. The new supplier (target) will not complete this activity.
+Please note that it is the responsibility of the practice to ensure that they have contacted their third party software suppliers to check if the software is compatible with the new system and agree any actions required for implementation. The new supplier will not complete this activity.
 
+### Notifying third parties and links
 
-### Notification of 3rd parties and links
-
-Make a list of all the supporting/connecting solutions and community services that the clinical solution or the practice works with, for example...
-
+Make a list of all the supporting/connecting systems and community services that are currently sent electronically
+* Pathology labs and any other services or providers that send information and results automatically to the current system. (eg. bowel screening, hospital letters, 111, Out of hours)
+* Pharmacies
+* [Primary Care Support England](https://pcse.england.nhs.uk/)
+* [Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, AccuRx, DispensIT, eConsultation provider)
 <!-- removed based on user feedback
 * [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
 * [GP2GP](https://digital.nhs.uk/services/gp2gp)
 * [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr) -->
 
+Plan and schedule how you will notify them of your change of system. The earlier you give notice of your Cutover and Go-Live dates the better. The notice period required will vary depending on the service.
 
-* Pathology labs and any other services or providers that send information and results automatically to the existing solution. For example, Bowel screening, Hospital letters, 111, Out of hours
-
-
-* Pharmacies
-
-
-
-* [Primary Care Support England](https://pcse.england.nhs.uk/)
-
-
-* [Subsidiary and Third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management
-
-Next, plan and schedule how you will give notice to them of your solution change. The earlier you give notice of your Cutover and Go-Live dates, the better. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another service may require 5 days. 
-
-If you use any third party software as part of your clinical solution, please be aware that reconfiguration work may be required by them after you have migrated to the new clinical solution [Post Go-Live](post-go-live).
+If you use any third party software that integrates with your current system, please be aware that reconfiguration work may be required after you have migrated [Post Go-Live](post-go-live). You should contact the supplier to ensure that is possible in the new system and plan a work around process if not.
 
 Add a task to your plan to contact and remind each party the week before and on the day when you require changes to be made.
 
-### Notification of Patients {#notification-of-patients}
+
+### Notifying Patients {#notification-of-patients}
 
 During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service solution (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
 
