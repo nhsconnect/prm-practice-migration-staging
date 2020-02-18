@@ -37,7 +37,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ## General preparation
 
-* [Notify all the 3rd parties](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links)and services to switch off links/communications 1-2 days prior to Final Data Production day. As highlighted in the Kick-off and Pre-migration Tasks stages.
+* [Notify all the 3rd parties](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and services to switch off links/communications 1-2 days prior to Final Data Production day. As highlighted in the Kick-off and Pre-migration Tasks stages.
  <!-- [UPLIFT] changed location of hyperlink -->
 * Make back-ups of any local or third party systems/databases that are not backed up centrally by your current supplier
 
