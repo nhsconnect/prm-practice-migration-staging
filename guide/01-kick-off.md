@@ -154,16 +154,25 @@ Add a task to your plan to contact and remind each party the week before and on 
 
 ### Notifying Patients {#notification-of-patients}
 
-During the migration, you may need to remove access to online services such as the ability to book appointments online and you may also require patients to re-register on your new online service solution (if applicable). Therefore, discuss how you will notify patients in advance. Most practices display posters for many weeks in advance to create awareness. 
+During the migration, you may need to remove access to online services, such as the ability to book appointments, and you may also require patients to re-register on your new online service (if applicable). You will need a plan for how you will notify patients of this potential requirement and it is advised that you give them plenty of notice. Most practices display posters for many weeks in advance to create awareness, some add messages onto their practice website, while others may enlist the help of the Patient Participation Group (PPG).
 
-You may also want to discuss what online messaging is put in place when the service is removed e.g. what happens if a patient tries to access the online service when it ceases to be available. You may want to add this as a topic on the practice patient forum.
+You may also want to discuss what online messaging is put in place when the service is removed (e.g. What happens if a patient tries to access the online service when it ceases to be available?) You may want to add this as a topic on the practice patient forum.
 
 Remember to make any necessary changes to your practice website. For example, Online Access Links.
 
-### Make staff aware of the coming changes {#make-staff-aware}
 
-Are the practice staff (and anyone who works remotely) aware of the change? Think about what questions they may have and how you plan to answer them.
+### Involve staff in every stage of the process {#make-staff-aware}
+
+Certify that all staff are fully informed and engaged in the process. However, make it known they can ask questions whenever they need to. It is a good idea to have ‘change champions’ within the practice as the ‘go-to’ resource for staff. They will be team members who are most positive about the change and willing to help others.
 
 ### Training
 
-We recommend you find out who will deliver training and make contact with the relevant team to discuss delivery. [Read more about training](training).
+The practice should be aware of who will be delivering their training and as part of the Kick-off process dedicated meetings should be planned to discuss the delivery. 
+
+During these meetings the trainers should: 
+
+* Work with the practice to agree dates and 
+* Tailor training requirements to the needs of each staff role. 
+* Plan smartcard access roles and user set up. 
+
+[Read more about training](training).
