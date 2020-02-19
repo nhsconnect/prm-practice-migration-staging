@@ -16,7 +16,7 @@ Following your Kick-off meeting, an engineer will need to complete a Technical S
 
 The survey is to check the current practice setup, focused mainly on the following three areas:
 
-* **Hardware** – All Hardware, such as desktop PCs, self check-in screens, call display boards and devices etc should be checked to ensure that they meet the required minimum specification for running the new system. For dispensing practices, barcode scanner and label printer compatibility should also be checked and practices should note that if replacements are required the costs of these may be their responsibility
+* **Hardware** – All hardware, such as desktop PCs, self check-in screens, call display boards and devices etc should be checked to ensure that they meet the required minimum specification for running the new system. For dispensing practices, barcode scanner and label printer compatibility should also be checked and practices should note that if replacements are required the costs of these may be their responsibility
 * **Network** – this should be checked in-line with the operating requirements of the new system.
 * **3rd party application/software compatibility** - Applications that the practice may use that are not part of the current system but may  integrate with it, for example, DocMan or Apollo Scan for document scanning and management, DispensIT etc
 
