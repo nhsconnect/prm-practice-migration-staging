@@ -2,19 +2,20 @@
 layout: page_with_sidebar
 permalink: /guide/cutover-and-go-live
 title: Cut-over and Go Live
-subtitle: Transitioning to the new principal clinical solution
+subtitle: Transitioning to the new solution/system
 nextpage: /guide/post-go-live
 previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
 ---
 
-During the cut-over phase, you will carry out all the activities planned for in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
+During the Cutover phase, you will carry out all the activities planned for in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
 
 ## Who is involved
 * Practice Staff
 * Project Manager
+* CCG / Delivery Partners
 * Trainers
-* new supplier (target)
+* New Supplier
 
 
 ## What to expect during the cutover
