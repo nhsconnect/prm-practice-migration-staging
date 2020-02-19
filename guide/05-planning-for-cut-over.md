@@ -3,7 +3,7 @@ layout: page_with_sidebar
 permalink: /guide/planning-for-cut-over
 title: Planning for cut-over
 subtitle: Preparation and activities to reduce the impact of the cut-over & data re-entry
-nextpage: /guide/cutover-and-go-live
+nextpage: /guide/cutover
 previouspage: /guide/initial-data-production
 breadcrumbparent: /guide
 ---
