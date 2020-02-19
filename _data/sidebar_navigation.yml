@@ -12,11 +12,13 @@ sidebar_items:
     url: /guide/pre-migration-tasks
   - title: Initial data production & data checking
     url: /guide/initial-data-production
-  - title: Planning for the cut-over
+  - title: Planning for the cutover
     url: /guide/planning-for-cut-over
-  - title: Cut-over and Go Live
-    url: /guide/cutover-and-go-live
-  - title: Post Go Live
+  - title: Cutover
+    url: /guide/cutover
+    - title: Go-Live
+    url: /guide/go-live
+  - title: Post Go-Live
     url: /guide/post-go-live
   - title: End of your migration
     url:  /guide/end-of-migration
