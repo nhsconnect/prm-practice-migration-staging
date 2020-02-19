@@ -37,13 +37,6 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 
 
 
-{%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go Live. 
-{%- endcapture -%}
-
-{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
-
-
 ### Configure devices
 
 Depending on which solution the practice is migrating to, configuration of devices (eg. scanners, check-in and call waiting boards) may occur pre-Go-Live or on Go-Live day, however these generally cannot be connected to the new system until Go-Live day. This is usually completed by the delivery partner.  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go Live -->
