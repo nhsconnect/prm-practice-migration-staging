@@ -12,21 +12,21 @@ The migration will end at the point at which all data has been re-entered, pract
 
 
 ## The ‘run-off period’ {#the-run-off-period}
-The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new solutions. The run-off period should be agreed with the suppliers 
-<!-- [UPLIFT] Removed specific reference to 45 days -->
-Access to the old solution is usually retained for cross referencing data, validation and mapping only.  
 
-Practices sometimes require a longer run-off period and this should be agreed with the Clinical Commissioning Group as this may incur additional costs.
+The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new solutions. The run-off period should be agreed with the suppliers. Access to the old solution is usually retained for cross referencing data, validation and mapping only.
+
+Practices sometimes require a longer run-off period and this should be agreed with the CCG as this may incur additional costs.
+
 <!-- [UPLIFT] Removed specific reference to 45 days -->
 {%- capture lesson_learnt_3 -%}
-__Lesson learnt__ - If the process necessary to decommission the existing supplier’s solution (source) is not implemented at this point, the NHS will continue to pay for the service for longer than needed.
+__Lesson learnt__ - If the process necessary to decommission the current supplier’s solution is not implemented at this point, the NHS will continue to pay for the service for longer than needed.
 <!-- [GAP] Need to add details regarding 'the document necessary to decommission'-->
 <!-- [UPLIFT] Replaced 'document' with 'process' and 'sent' with 'implemented'-->
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
-Arrangements will need to be in place to ensure access to Source Solution data and audit trails in human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
+Arrangements will need to be in place to ensure access to the current system data and audit trails is in a human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
 <!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
 <!-- [GAP] there is no migration of audit trails at this point. We don't yet know how to transfer these -->
 
@@ -50,12 +50,10 @@ Steps to do this…
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->
 
-* The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided
 
+## Lessons learned and feedback
 
-## Retrospective and feedback
-
-We encourage you to hold a ‘Retrospective’ session with all the key people involved. A retrospective is a meeting whereby you look back at the events that took part during the migration and assess the following…
+We encourage you to hold a ‘lessons learned’ session with all the key people involved. It is a retrospective meeting whereby you look back at the events that took part during the migration and assess the following…
 
 * What worked well?
 
@@ -65,7 +63,7 @@ We encourage you to hold a ‘Retrospective’ session with all the key people i
 
 * What would you do differently if you had to migrate again?
 
-Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or GP IT delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
+Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
 
 
 ## Send us your learnings
@@ -75,5 +73,5 @@ We would also like to receive any learnings you have from your migration so that
 You can share feedback [**using this survey**](https://forms.office.com/Pages/ResponsePage.aspx?id=Hwf2UP67GkCIA2c3SOYp4nsSJoMExjNAvWPV0wF8vLFUNUVKNFFXM0NES1RXUU5MOEtLM1NYVkM1Uy4u).
 
 
-You can also send feedback and learnings to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of Les Fawcett, Senior Project Manager, NHS Digital.
+You can also send feedback and learnings to <a href="mailto:enquiries@nhsdigital.nhs.uk?subject=Practice%20migration%20feedback%20-%20FAO%20Les%20Fawcett,%20NHS%20Digital&body=For%20the%20attention%20of%20Les%20Fawcett,%20Senior%20Project%20Manager,%20NHS Digital">enquiries@nhsdigital.nhs.uk</a> marked for the attention of The Practice Migration Team, NHS Digital.
 
