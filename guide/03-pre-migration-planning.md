@@ -46,80 +46,43 @@ Rectifying the data early and before the [Initial data production phase](initial
 
 ### Tasks include...
 
-* The appropriate management of duplicate and orphaned records which will not migrate to the new solution
+* Requesting a reconciliation of the practice database against the PCSE database (For more information: see a [Guide to Patient Registrations](https://pcse.england.nhs.uk/services/registrations/)
+* Identifying any local or practice created codes and mapping these to the appropriate Read/SNOMED codes if available 
+* Confirm which patients have any current issues of un-mapped codes and as part of the clean-up of the current system data, map those drugs and devices according to the [Dictionary of Medication and Devices (dm+d)](https://www.nhsbsa.nhs.uk/pharmacies-gp-practices-and-appliance-contractors/dictionary-medicines-and-devices-dmd) 
+* Establishing which letter and data entry templates should be transferred into the new system. These will need to be manually copied over.
 
+## Notifying third parties and links
 
-* Complete an information cleansing exercise to ensure only current letter templates and data entry templates are kept. Note; letter and data entry templates will need to be manually copied over. Completing this exercise will make it easier to identify which templates you need in the new solution
+Refer back to the list created at the Kick-off of all the supporting/connecting solutions and community services that the clinical solution or the practice works with, such as:
 
-
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration;  as you approach the [Final data production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you will want to have zero tasks outstanding
-
-
-
-## Data checking preparation {#data-checking-prep}
-
-The new supplier (target) will provide a set of test criteria for data checking following the [Initial data production day](initial-data-production). The Practice will be asked to find a series of patient records that match these criteria (usually up to 20 records) and a selection of random records. Usually, the new supplier (target) or GP IT delivery partner (such as a Commissioning Support Unit) will assist with the initial selection of records before asking the Practice to complete finding the remaining patient records unaided.
-
-The Practice will need to detail the selected patient records in a document provided by the new supplier (target). The list of selected patient records will need to be available on the [Initial data production day](initial-data-production).
-
-
-### Is a reconciliation needed?
-
-A reconciliation may be completed between Personal Demographics Service (PDS) through an Additional Service Request (ASR) to force a patient list synchronisation.
-
-{%- capture lesson_learnt_1 -%}
-__Recommendation__ The Personal Demographic Service and NHAIS can get out of sync. Thus the reconciliation and any outstanding registration for any patient needs to be done before Go Live. If not done before Go Live, patient information can be lost and it could also cause issues during data migration.
-{%- endcapture -%}
-
-{%- include inset.html content=lesson_learnt_1 accessibility_text="Lesson learnt" markdown=true -%}
-<!-- [GAP] need to check how practices request reconciliation -->
-
-
-## Notification of 3rd parties and links
-
-Refer back to the list created at the Kick-off of all the supporting/connecting solutions and community services that the clinical solution or the practice works with, such as
-
-* [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
-
-
-* [GP2GP](https://digital.nhs.uk/services/gp2gp)
-
-
-* [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr)
-
-
-* Pathology labs and any other services or providers that send information and results automatically to the current solution. For example, Bowel screening, Hospital letters, 111, Out of hours
-
-
+* Pathology labs and any other services or providers that send information and results automatically to the current system (eg. screening services, Hospital letters, 111, Out of hours)
 * Pharmacies
-
-
-* [Primary Care Support England](https://pcse.england.nhs.uk/)
-
-
-* [Subsidiary and third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), for example, DocMan or Apollo Scan for document scanning and management (see below)
-
-
+* [Primary Care Support England](https://pcse.england.nhs.uk/) 
+* [Subsidiary and third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, DispensIT - see below)
 
 ## Subsidiary and Third party solution suppliers {#subsidiary-suppliers}
 
-You may need to migrate data from subsidiary suppliers (also referred to as [Lot 1 services](https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of your clinical solution migration. For example, DocMan or Apollo Scan for document scanning and management. 
+It may be necessary to migrate data from subsidiary suppliers (also referred to as [Lot 1 services]((https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of the migration (eg. DocMan or Apollo Scan for document scanning and management).
 
-__Regardless of whether you plan to migrate away from the subsidiary supplier or integrate with them, you will need to give notice to them of your solution change__. The notice period required will vary, for example, the Electronic Prescription Service may require 5 weeks, whereas another may require 5 days. 
+__Regardless of whether you plan to migrate away from the subsidiary supplier or integrate with them, you will need to give notice to them of your solution change__. The notice period required will vary depending on the system. 
 
-   -- If you require a data extract from the subsidiary supplier, you need to notify the subsidiary supplier well in advance of the date when you require the data extract to be completed
+   -- If you require a data extract from the subsidiary supplier, this should be requested at the same time as you place the order for the new system. 
 
-   -- The data extract from a subsidiary supplier will need to be completed at the same point in time as any data extract is completed for your current clinical solution
+   -- The data extract from a subsidiary supplier should be completed at the same point in time as the main system extraction and provided to the new supplier following the agreed process.
 
-   -- This applies to both the initial data extract and the final data extract
+   -- This applies to both the Initial data extract and the Final data extract
 
-   -- Agree with the new solution supplier as to who and how the data extract will be collected from the subsidiary supplier
-
-Please be aware that reconfiguration work may be required by a subsidiary supplier after you have migrated to the new clinical solution ([Post Go-Live](post-go-live)) to integrate with this new clinical solution.
+Please be aware that reconfiguration work may be required by a subsidiary supplier after you have migrated to the new system ([Post Go-Live](post-go-live) to enable integration. 
 
 
-## Notification of patients
-Start to display posters within the surgery advising of any disruption to services such as the ability to book appointments online and that patients may also be required to re-register on your new online service solution (if applicable). 
+## Notifying patients
+
+During the migration, the practice may need to remove access to online services. It may also be necessary for patients to re-register onto the new online service (if applicable). The practice will need to plan for how it will notify patients of this potential requirement. 
+
+Most practices display posters for many weeks in advance to create awareness, some add messages on their practice website, and others may enlist the help of the Patient Participation Group (PPG).
+
+The practice should also advise patients about other potential impacts of the implementation of the new system. For example, in the period immediately after the migration as staff adjust to the new system, prescription requests may take slightly longer and consultations may run over time.
+ 
 
 ## Schedule any training
 
@@ -127,4 +90,4 @@ Schedule your training plan and book rooms. [Read more about training](training)
 
 ## Check hardware and software deployment timelines
 
-If the [Technical Survey](technical-survey) identified any additional hardware or software requirements, make sure to check in on the current status.
+If the [Technical Survey](technical-survey)identified any additional hardware or software requirements, make sure that these are scheduled in and that access is available.
