@@ -8,7 +8,7 @@ previouspage: /guide/planning-for-cut-over
 breadcrumbparent: /guide
 ---
 
-During the Cutover phase, you will carry out all the activities planned for in the [cut-over preparation phase](/prm-practice-migration/guide/planning-for-cut-over).
+During the Cutover phase, you will carry out all the activities planned for in the [Planning for the Cutover phase](/prm-practice-migration/guide/planning-for-cut-over).
 
 ## Who is involved
 * Practice Staff
@@ -51,10 +51,6 @@ Incompatible equipment identified in the [Technical Survey](technical-survey) ma
 
 Depending on the clinical solution the practice is migrating to, the solution will be configured for staff, roles and names of sites either before the Go-Live or on Go-Live day. Smart cards will also need to be activated at the appropriate time. Who does this varies between the delivery partner, trainers and practice staff.
 
-
-### Check Electronic links
-
-On Go-Live day notify all organisations that the electronic links can be reactivated. At this point you can complete the registration process for patients that joined the practice during the Cutover period. 
 
 ### Transfer Booked Appointments
 
@@ -120,12 +116,13 @@ Practice staff may have already received [training for the new solution](/prm-pr
 
 ## What to look out for
 
- * Confirm your Go Live date with the new supplier (target) again to make sure there is no change in their schedules.  
+ * Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.  
 
 * Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 
 * Fixing degraded codes could take the practice some time.
 <!-- [UPLIFT] reworded the language here -->
+
 * New patients cannot complete registration until after the Cutoff period so you will need to ask them to come back after Go-Live.
 
 ## Process review
