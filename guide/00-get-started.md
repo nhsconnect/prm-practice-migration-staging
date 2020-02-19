@@ -13,7 +13,7 @@ When ordering a new system, check that you have thoroughly reviewed the system t
 
 This guide begins from the point at which the CCG has approved the practice’s request to change their current system and is ready to start the migration process.
 
-Note: This is subject to the conditions described in the[CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
+Note: This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
 
 Prior to this, there are a number of steps that will have taken place, such as:
 * Completion of a selection process under the GP IT Futures framework
