@@ -68,9 +68,8 @@ Clinical input will be required and the level of input may vary per practice. Pl
 The new supplier should assist the practice on the first day of Phase 1 Initial data checking.
 
 {%- capture lesson_learnt_2 -%}
-*Lesson learnt* - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go-Live date.{%- endcapture -%}
+*Lesson learnt* - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go-Live date.
 
-{%- capture lesson_learnt_2 -%}
 *Lesson learnt* - If possible, try to arrange access to additional support from the new supplier or delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.{%- endcapture -%}
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
