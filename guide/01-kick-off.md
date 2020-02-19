@@ -16,10 +16,10 @@ A ‘Kick-off’ is a meeting where all the key people who will be involved in t
 * **Discuss** the key milestones and week by week activities
 * **Agree** on dates and targets for the above milestones and activities
 * **Identify** who will be involved in the migration and what are their roles and responsibilities. It is particularly important that a Project Manager for the migration is officially identified by the practice and agreed by all stakeholders.
-* **Agree** how you will communicate and share information
-– Between yourselves
-– With third parties
-– [With practice staff](#make-staff-aware)
+* **Agree** how you will communicate and share information<br/>
+– Between yourselves<br/>
+– With third parties<br/>
+– [With practice staff](#make-staff-aware)<br/>
 – [With patients](#notification-of-patients)
 * **Understand** the scope of the entire migration
 * **Define** the ownership of risks and the process for mitigations
