@@ -51,6 +51,12 @@ Rectifying the data early and before the [Initial data production phase](initial
 * Confirm which patients have any current issues of un-mapped codes and as part of the clean-up of the current system data, map those drugs and devices according to the [Dictionary of Medication and Devices (dm+d)](https://www.nhsbsa.nhs.uk/pharmacies-gp-practices-and-appliance-contractors/dictionary-medicines-and-devices-dmd) 
 * Establishing which letter and data entry templates should be transferred into the new system. These will need to be manually copied over.
 
+{%- capture lesson_learnt_2 -%}
+__Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go Live. 
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
+
 ## Notifying third parties and links
 
 Refer back to the list created at the Kick-off of all the supporting/connecting solutions and community services that the clinical solution or the practice works with, such as:
