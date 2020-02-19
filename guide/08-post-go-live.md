@@ -4,7 +4,7 @@ permalink: /guide/post-go-live
 title: Post Go-Live
 subtitle: What happens after Go-Live
 nextpage: /guide/end-of-migration
-previouspage: /guide/cutover-and-go-live
+previouspage: /guide/go-live
 breadcrumbparent: /guide
 ---
 
