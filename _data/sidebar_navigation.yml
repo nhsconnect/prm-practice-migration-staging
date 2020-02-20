@@ -21,4 +21,6 @@ sidebar_items:
   - title: Post Go-Live
     url: /guide/post-go-live
   - title: End of your migration
-    url:  /guide/end-of-migration
+    url: /guide/end-of-migration
+  - title: Training
+    url: /guide/training
