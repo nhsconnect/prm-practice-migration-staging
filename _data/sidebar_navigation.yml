@@ -16,7 +16,7 @@ sidebar_items:
     url: /guide/planning-for-cut-over
   - title: Cutover
     url: /guide/cutover
-    - title: Go-Live
+  - title: Go-Live
     url: /guide/go-live
   - title: Post Go-Live
     url: /guide/post-go-live
