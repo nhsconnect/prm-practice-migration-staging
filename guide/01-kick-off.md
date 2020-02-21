@@ -167,7 +167,7 @@ Certify that all staff are fully informed and engaged in the process. However, m
 
 ### Training
 
-The practice should be aware of who will be delivering their training and as part of the Kick-off process dedicated meetings should be planned to discuss the delivery. 
+The practice should be aware of who will be delivering their training (delivery partner or supplier) and as part of the Kick-off process dedicated meetings should be planned to discuss the delivery. 
 
 During these meetings the trainers should: 
 
