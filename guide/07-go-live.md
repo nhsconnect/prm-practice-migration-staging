@@ -60,7 +60,7 @@ Practice staff may have already received [training for the new solution](/prm-pr
 
  * Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.  
 
-* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
+* Each practice has its own [MESH](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh) inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 
 * Fixing degraded codes could take the practice some time.
 <!-- [UPLIFT] reworded the language here -->
