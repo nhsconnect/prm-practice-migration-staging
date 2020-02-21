@@ -11,7 +11,7 @@ previouspage:
 
 The approach, amount and timing of training widely differs from region to region and can happen throughout the end to end migration process. 
 
-* Some Practices receive training from the GP IT delivery partner (such as a Commissioning Support Unit) where they have dedicated trainers
+* Some Practices receive training from the delivery partner where they have dedicated trainers
 
 * Some Practices receive training from the new supplier (The new supplier of the GP Core System)
 
@@ -26,9 +26,9 @@ The approach, amount and timing of training widely differs from region to region
 
 * If possible, draft in additional support/cover so that there is dedicated people/time for training on the new solution
 
-* Remember to include staff who may work remotely / away from the Practice building on training
+* Remember to include staff who may work remotely / away from the practice building on training
 
-* Supplier trainers tend to follow fixed training plans so make sure to agree upfront what the Practice needs are and whether you want to deviate from the planned agenda.
+* Supplier trainers tend to follow fixed training plans so make sure to agree upfront what the practice needs are and whether you want to deviate from the planned agenda.
 
 * Arrange pre-cutover training as close to the cutover date as you can for training information retention
 
