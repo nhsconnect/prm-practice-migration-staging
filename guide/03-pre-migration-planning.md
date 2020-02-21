@@ -57,8 +57,11 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 
 ## Notifying third parties and links
 
-Refer back to the list created at the Kick-off of all the supporting/connecting solutions and community services that the clinical solution or the practice works with, such as:
+Refer back to the list created at the Kick-off of all the supporting/connecting solutions, patient and community services that the system or the practice works with, such as:
 
+* SMS providers (such as eConsultation and AccuRx-Chain). Practices will need to decide how these messages will be captured and stored during Cutover.
+* Login of patients to NHS app may be affected if the IM1 credentials of the practice change during the migration. Similarly, access to other apps like Evergreen life may be affected and practices will need to liaise with these third parties.
+* Patient Online Services may need to be contacted to issue new patient access IDs, since the patient access IDs for current supplier may not grant access into the portal of the new supplier 
 * Pathology labs and any other services or providers that send information and results automatically to the current system (eg. screening services, Hospital letters, 111, Out of hours)
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/) 
@@ -83,7 +86,7 @@ Please be aware that reconfiguration work may be required by a subsidiary suppli
 
 During the migration, the practice may need to remove access to online services. It may also be necessary for patients to re-register onto the new online service (if applicable). The practice will need to plan for how it will notify patients of this potential requirement. 
 
-Most practices display posters for many weeks in advance to create awareness, some add messages on their practice website, and others may enlist the help of the Patient Participation Group (PPG).
+Most practices display posters for many weeks in advance to create awareness, some add messages on their practice website, and others may enlist the help of the Patient Participation Groups (PPGs). PPGs can also be used post Go-Live to ensure all patients have received their new patient access IDs.
 
 The practice should also advise patients about other potential impacts of the implementation of the new system. For example, in the period immediately after the migration as staff adjust to the new system, prescription requests may take slightly longer and consultations may run over time.
  
