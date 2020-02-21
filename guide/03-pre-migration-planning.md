@@ -22,7 +22,7 @@ Additional data extractions should be carried out at the same time as the main o
 <!--* * *
 **_SLA:_**  Once a request is made for an extract, your old supplier has 5 working days to provide this to you/your new supplier.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
-* * * -->
+* * *-->
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 
 <!--The DDE is the 'Documented Data Extract' that shows what physical data is to be included in the extract and its format and structure (see DMI02).
