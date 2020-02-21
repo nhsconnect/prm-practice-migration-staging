@@ -11,9 +11,9 @@ previouspage:
 
 The approach, amount and timing of training widely differs from region to region and can happen throughout the end to end migration process. 
 
-* Some Practices receive training from the delivery partner where they have dedicated trainers
+* Some practices receive training from the delivery partner where they have dedicated trainers
 
-* Some Practices receive training from the new supplier (The new supplier of the GP Core System)
+* Some practices receive training from the new supplier (The new supplier of the GP Core System)
 
 
 ## General recommendations for training
