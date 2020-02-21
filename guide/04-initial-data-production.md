@@ -30,7 +30,7 @@ As part of the Initial Data Production phase, the practice will be given access 
 The new supplier or delivery partner should provide brief basic training on the new system so that users are able to carry out the Initial Data Production activities.
 
 {%- capture lesson_learnt_2 -%}
-*Lesson learnt* - at least one member of staff should be involved in this stage so that they have the knowledge to navigate the system to identify patients and know how to set up additional users.{%- endcapture -%} 
+**Lesson learnt** - at least one member of staff should be involved in this stage so that they have the knowledge to navigate the system to identify patients and know how to set up additional users.{%- endcapture -%} 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
 ## Data checking {#data-checking}
@@ -68,14 +68,14 @@ Clinical input will be required and the level of input may vary per practice. Pl
 The new supplier should assist the practice on the first day of Phase 1 Initial data checking.
 
 {%- capture lesson_learnt_2 -%}
-*Lesson learnt* - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go-Live date.
+**Lesson learnt** - You will need to block out time and dedicated staff to complete the data checking activity as any delays in completing this phase will impact the Go-Live date.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
 
 {%- capture lesson_learnt_2 -%}
-*Lesson learnt* - If possible, try to arrange access to additional support from the new supplier or delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
+**Lesson learnt** - If possible, try to arrange access to additional support from the new supplier or delivery partner to answer any questions and remove any uncertainty that could block or delay the data checking phase.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
