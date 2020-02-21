@@ -10,15 +10,6 @@ This guide aims to help practices, GP IT delivery partners (referred to as ‘de
 
 This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
 
-Two key documents are referenced throughout this guide:
-<!-- [UPLIFT] Added explanation that these two documents have content that appears throughout the guide -->
->* GP IT Futures Catalogue Solution Migration Process
-<!-- [GAP] Ancillary document is not yet publicly available although it is available to all supplier onboarded to the Catalogue. We will need to find a place where this document is stored online (e.g. GitHub?) -->
->* GP IT Futures Data Migration Standard
-<!-- [GAP] Data Migration is not yet publicly available to those without Confluence access. We will need to find a place where this document is stored online. -->
-
-When you see reference to an ‘SLA’, this is a Service Level Agreement that appears in the Catalogue Solution Migration Process. When you see reference to a ‘DMI’ code, this item is a requirement that forms part of the Data Migration Standard. The Data Migration Standard applies only to those solutions, which are registered on the GP IT Futures Catalogue or Framework.
-
 Performing a migration inevitably involves access to - and processing of - significant amounts of patients’  personal data. It’s crucial, therefore, that all parties involved adhere to the laws, policies, standards and guidelines in respect to Information Governance, including:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
