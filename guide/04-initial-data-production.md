@@ -51,10 +51,10 @@ Data checking generally happens in 2-3 phases:
 2. Rechecking the data after the new supplier has resolved these issues
 3. In some circumstances a third phase is required if further issues were found in the recheck, however, most migrations do not require this further recheck of the data.
 
-
+<!--
 * * * 
 **_SLA:_** To make sure that any errors are fixed promptly, you must inform your new supplier of any initial data check issues within 5 working days.<br><em>(GP IT Futures Catalogue Solution Migration Process, p. 14)</em>
-* * *
+* * * -->
 <!-- [UPLIFT] added approximate reference to the Step 9 SLA from Ancillary Document p. 14 -->
 
 ### Timeline for data checking
