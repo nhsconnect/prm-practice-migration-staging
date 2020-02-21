@@ -26,7 +26,7 @@ __Lesson learnt__ - If the process necessary to decommission the current supplie
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
-Arrangements will need to be in place to ensure access to the current system data and audit trails is in a human readable format. Your old supplier will need to provide any necessary support in line with contractual agreements.
+Arrangements will need to be in place to ensure that current system data and audit trails are accessible and easy to read. Your old supplier will need to provide any necessary support in line with contractual agreements.
 <!-- [UPLIFT] added reference to need for audit trails using original format in which data was captured -->
 <!-- [GAP] there is no migration of audit trails at this point. We don't yet know how to transfer these -->
 
