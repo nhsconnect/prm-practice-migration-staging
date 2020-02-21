@@ -13,33 +13,31 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your current supplier {#request-data-extract}
 
-By now you should have [formally requested a data extract from your current supplier](/prm-practice-migration/guide/get-started#request-data-extract). Your current supplier must provide this extract according to the Data Migration Standard (DMI06). 
-<!-- [UPLIFT] added reference to Data Migration Standard -->
-If you do not have confirmation from the current supplier that the extract will be provided on the date requested, you need to chase this up with them. They must provide all the data extract(s) you require in a suitable, encrypted, electronic format as documented in the DDE. All data extracts must also contain the full set of audit trails, where applicable (see DMI07 and DMI26 for more details).
+By now [a data extract should have been requested from the practice’s current supplier](/prm-practice-migration/guide/get-started#request-data-extract), and is normally carried out by the CCG/delivery partner on your behalf. The current supplier must provide this extract. Check with your CCG/delivery partner that the current supplier can provide the data on the date requested. If you made the request yourself then get confirmation directly from the current supplier. They must provide all the data extract(s) in the appropriate format according to the relevant data migration standard.
 
-* * *
+Complete additional data extract requests for any other clinical system supplier that you use since this data may not be included in the main one. For example, any document management and scanning solutions such as DocMan or anticoagulation management software such as INR Star. 
+
+Additional data extractions should be carried out at the same time as the main one, therefore liaise with the relevant suppliers before booking key dates to ensure that they can also meet them. 
+
+<!--* * *
 **_SLA:_**  Once a request is made for an extract, your old supplier has 5 working days to provide this to you/your new supplier.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 6)</em>
-* * *
+* * * -->
 <!-- [UPLIFT] added reference to the Supplier SLA in terms of responding to queries from a Migration Management Agent -->
 
 <!--The DDE is the 'Documented Data Extract' that shows what physical data is to be included in the extract and its format and structure (see DMI02).
  [UPLIFT] added reference to the Supplier SLA in terms of responding to a request for an extract -->
 
-A data extract request will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning solutions such as DocMan or anticoagulation management software such as INR Star.
-
 __The request needs to be completed as early as possible__. The current suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
 ## Clean up the current solution data
 
-The new supplier (providing the new clinical solution) or GP IT Delivery Partner (such as a Commissioning Support Unit) can advise the Practice on any common/known data issues when migrating to the new solution (these may vary from solution to solution). 
-
-Rectifying the data early and before the [Initial data production phase](initial-data-production) will reduce the amount of work the Practice needs to complete during later phases.
-
+The new supplier, delivery partner or CCG can advise the practice on any common or known data issues when migrating to the new system. It is beneficial to review the quality of the data in the current system and carry out any required remedial actions before the first data extraction. This may reduce the amount of issues that are found during data checking and the subsequent work required to resolve these.
+<!--
 * * * 
 **_SLA:_**  Reviewing the quality of the data in your current solution should not take more than 6 weeks. This review should include identifying any irregularities in the data, performing standard data quality checks and assessing any misused codes or concepts, such as clinical findings terms.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 11)</em>
-* * *
+* * *-->
 
 <!-- [UPLIFT] added reference to Step 4 SLA from the Ancillary Document -->
 <!-- [GAP] need to check whether 'Source Solution data quality review' is the same activity as 'Clean up the current system data' i.e. is the SLA here in the right place? -->
