@@ -64,11 +64,11 @@ This is the time to enter all future booked appointments that were added to the 
 
 * Fixing degraded codes could take the practice some time.
 
-
+<!--
 * * * 
 **_SLA:_**  The cut-over period should not exceed 72 hours.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 15)</em>
-* * *
+* * * -->
 <!-- [UPLIFT] added reference to Step 10 SLA from Ancillary Document p.15 -->
 
 
