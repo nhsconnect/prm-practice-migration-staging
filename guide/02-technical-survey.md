@@ -16,9 +16,9 @@ The survey is to check the current practice setup, focused mainly on the followi
 
 * **Hardware** – All hardware, such as desktop PCs, self check-in screens, call display boards and devices including portable ones should be checked to ensure that they meet the required minimum specification for running the new system. 
 
-   - For dispensing practices, barcode scanner and label printer compatibility should also be checked and practices should note that if replacements are required the costs of these may be their responsibility. 
+   For dispensing practices, barcode scanner and label printer compatibility should also be checked and practices should note that if replacements are required the costs of these may be their responsibility. 
 
-   - Consider what new tech might be required as this may be a good time to request new kit from your delivery partner once approved by the CCG. 
+   Consider what new tech might be required as this may be a good time to request new kit from your delivery partner once approved by the CCG. 
 
 * **Network** – this should be checked in-line with the operating requirements of the new system.
 
