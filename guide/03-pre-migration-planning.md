@@ -67,6 +67,9 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 * [Primary Care Support England](https://pcse.england.nhs.uk/) 
 * [Subsidiary and third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, DispensIT - see below)
 
+Some third party products suppliers may charge a fee to move the product license over to the new system. (e.g. CliniSys - Labs ICE test requesting) Check if there is a cost and who is expected to pay for this. Therefore allow additional time to raise invoices.
+
+
 ## Subsidiary and Third party solution suppliers {#subsidiary-suppliers}
 
 It may be necessary to migrate data from subsidiary suppliers (also referred to as [Lot 1 services]((https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of the migration (eg. DocMan or Apollo Scan for document scanning and management).
