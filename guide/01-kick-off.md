@@ -68,7 +68,7 @@ The following is a list of common roles, teams and organisations to engage with 
 * **A General Practitioner** to act as a Lead GP
 * **Clinical staff** (including people who may work remotely)
 * **GP IT delivery partner** (also referred to as delivery partner)
--- Explore with your GP IT delivery partner the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
+-- Explore with them the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * **Clinical Commissioning Group** (CCG)
 * **New supplier** of the GP system
 * **Current supplier** of the GP system
@@ -134,7 +134,8 @@ Please note that it is the responsibility of the practice to ensure that they ha
 
 ### Notifying third parties and links
 
-Make a list of all the supporting/connecting systems and community services that are currently sent electronically
+Make a list of all the supporting/connecting systems and community services that are currently sent electronically. Check if the delivery partner has a list of all the third party providers in the area to help with this task.
+
 * Pathology labs and any other services or providers that send information and results automatically to the current system. (eg. bowel screening, hospital letters, 111, Out of hours)
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
