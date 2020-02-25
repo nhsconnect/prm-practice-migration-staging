@@ -49,7 +49,7 @@ Patient registration capability should now be available.
 Online patient services such as the ability to book appointments online are made available, however, it’s likely that patients will need to be re-registered individually by practice staff as online services patient login details do not transfer between systems. It may be useful to find out which patients frequently used the Online services provided by the previous supplier and prioritise these for re-registration.
 
 
-## Access to the old solution
+## Access to the old solution {#access-to-the-old-solution}
 
 The previous system is now read-only. Practices will require access to this, however, for cross referencing data, validation and mapping. If you require an extended access period, this should be agreed with the CCG and the new supplier as this may incur additional costs (and is explained further in the next section of this guide).
 <!-- [UPLIFT] Reworded this part and removed references to 45 days -->
