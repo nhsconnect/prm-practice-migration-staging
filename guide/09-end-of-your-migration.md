@@ -8,7 +8,7 @@ previouspage: /guide/post-go-live
 breadcrumbparent: /guide
 ---
 
-The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new system. Access to the old system has ended and the new solution has been officially signed off by the practice.
+The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice.
 
 
 ## The ‘run-off period’ {#the-run-off-period}
