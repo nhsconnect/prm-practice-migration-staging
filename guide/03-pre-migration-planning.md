@@ -34,10 +34,10 @@ __The request needs to be completed as early as possible__. The current supplier
 
 The new supplier, delivery partner or CCG can advise the practice on any common or known data issues when migrating to the new system. It is beneficial to review the quality of the data in the current system and carry out any required remedial actions before the first data extraction. This may reduce the amount of issues that are found during data checking and the subsequent work required to resolve these.
 
-* * * 
+<!--* * * 
 **_SLA:_**  Reviewing the quality of the data in your current solution should not take more than 6 weeks. This review should include identifying any irregularities in the data, performing standard data quality checks and assessing any misused codes or concepts, such as clinical findings terms.
 <br><em>(GP IT Futures Catalogue Solution Migration Process, p. 11)</em>
-* * *
+* * *-->
 
 <!-- [UPLIFT] added reference to Step 4 SLA from the Ancillary Document -->
 <!-- [GAP] need to check whether 'Source Solution data quality review' is the same activity as 'Clean up the current system data' i.e. is the SLA here in the right place? -->
