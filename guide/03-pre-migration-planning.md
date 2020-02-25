@@ -97,7 +97,7 @@ Schedule your training plan and book rooms. Have dedicated cover/support during 
 
 ## Check hardware and software deployment timelines
 
-If the [Technical Survey](technical-survey)identified any additional hardware or software requirements, make sure that these are scheduled in and that access is available.
+If the [Technical Survey] (technical-survey)identified any additional hardware or software requirements, make sure that these are scheduled in and that access is available.
 
 ## Data checking preparation
 
