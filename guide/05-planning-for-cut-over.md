@@ -135,8 +135,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * Print an extra copy of any referrals done during Cutover period and note the UBRN on the printout. These can then be scanned into the new solution post Go-Live. 
 
 * Remember to enter the referral code on the new system if required.
-
-   -- Link to the [Advice and guidance toolkit for the NHS e-Referral Service (e-RS)](https://digital.nhs.uk/services/e-referral-service/document-library/advice-and-guidance-toolkit)
+(For further information see [The Advice and guidance toolkit for the NHS e-Referral Service (e-RS)](https://digital.nhs.uk/services/e-referral-service/document-library/advice-and-guidance-toolkit))
 
 
 ### Scanning:
