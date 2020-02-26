@@ -13,7 +13,6 @@ show_hero: true
 This guide aims to help practices, GP IT delivery partners (e.g. Commissioning Support Units) and Commissioning Clinical Groups (CCGs) plan and prepare their migration from one foundation clinical system to another. 
 
 Whilst approaches to migration can differ by region, this guide contains a collection of common phases and strategies aimed at reducing the impact to practice staff and minimising the amount of manual data re-entry which is a common problem when migrating systems.
-<!-- [UPLIFT] replaced 'migrating' with 'migration'-->
 {%- capture lesson_learnt_2 -%} This is a beta version 1.5 of the guide and will continue to be updated while newer changes to the GPIT Futures framework evolves.
 {%- endcapture -%}
 
@@ -21,6 +20,7 @@ Whilst approaches to migration can differ by region, this guide contains a colle
 
 {%- include button.html title="Read the guide" link="/guide" -%}
 
+* * *
 
 ## Help us improve this guide
 
