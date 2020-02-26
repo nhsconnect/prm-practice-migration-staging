@@ -24,7 +24,6 @@ Whilst approaches to migration can differ by region, this guide contains a colle
 
 ## Help us improve this guide
 
-This guide is in Beta and you are viewing the second version. You can help us improve this guide by sharing your experience and giving feedback
-<!-- [UPLIFT] added reference to the second version. Please remove reference to BETA (and banner) once guide has been in use for some time and any 'teething problems' have been resolved -->
+You can help us improve this guide by sharing your experience and giving feedback.
 {%- include action_link.html link="/improve-this-guide" title="Give feedback on this guide" -%}
 
