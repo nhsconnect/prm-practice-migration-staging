@@ -45,7 +45,7 @@ The CCG or GP IT delivery partner (or local alternative) places the order using 
 
 ### Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
 
-A formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the [steps detailed below](/prm-practice-migration/edit/master/guide/get-started#steps-to-requesting-the-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
+A formal data extract request needs to be sent to the current supplier of the clinical system using the [steps detailed below](/prm-practice-migration/edit/master/guide/get-started#steps-to-requesting-the-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
 
 **The request needs to be completed as early as possible.** The suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. **Any delays to giving notice may impact the migration timeline.**
 
@@ -53,10 +53,10 @@ This will also need to be completed for any other supplier who will need to migr
 
 ### Steps to requesting the data extract {#steps-to-requesting-the-data-extract}
 
-1. A request is made to the existing supplier (source) to provide a ‘Data extract request form’ or similar. This is usually sent by the GP IT delivery partner (such as a Commissioning Support Unit) but this may differ by region.
-2. The existing supplier will send a ‘Data extract request form’ (or similar) directly to the practice.
-3. The practice completes and returns the form to the existing supplier (source) along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the Initial data production phase.
-4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
+1. A request is made to the current supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the delivery partner (CSU) but this may differ by region.
+2. The current supplier will send a ‘Data extract request form’ (or similar) directly to the practice.
+3. The practice completes and returns the form to the current supplier along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the [Initial data production](/prm-practice-migration/guide/initial-data-production) phase).
+4. The current supplier will ensure that the data is transferred to the new supplier safely and securely.
 
 
 ### Arrange your Kick-off and Technical Survey
