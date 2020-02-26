@@ -19,7 +19,7 @@ Prior to this, there are a number of steps that will have taken place, such as:
 * Completion of a selection process under the GP IT Futures framework
 * Completion of a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution
 * Confirmation and approval of funding by CCGs (and any local boards) for both the migration and any associated costs such as training and core hardware/software upgrades
--- _Note: there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration_
+   -- _**Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration_
 * Engagement of practice and CCG with their delivery partner to secure support and management of the migration process in line with the GP IT Operating Model
 
 Once the decision to migrate has been confirmed, the next steps are to:
@@ -30,12 +30,33 @@ A provisional Go-Live date should be agreed between the practice and supporting 
 
 Ideally the provisional date should be agreed with the new system supplier prior to placing the order.
 
-#### Order the new solution
+{%- capture lesson_learnt_1 -%}
+__Recommendation__ - Avoid the busiest periods for your practice and surrounding area and watch out for any periods with a high volume of staff on training or annual leave.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_1 accessibility_text="Recommendation" markdown=true -%}
+
+#### Order the new system
 
 The CCG or GP IT delivery partner (or local alternative) places the order using the agreed GP IT Futures process (to be confirmed).
 
 * CCG approves the order (this should then be sent to the supplier)
 * The new supplier receives and accepts the order (once done then a schedule of key dates should be obtained for discussion at the Kick-off meeting)
+
+### Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
+
+A formal data extract request needs to be sent to the existing supplier (source) of the principal clinical system using the [steps detailed below](/prm-practice-migration/edit/master/guide/get-started#steps-to-requesting-the-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
+
+**The request needs to be completed as early as possible.** The suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. **Any delays to giving notice may impact the migration timeline.**
+
+This will also need to be completed for any other supplier who will need to migrate data. For example, any document management and scanning systems such as DocMan or anticoagulation management software such as INR Star.
+
+### Steps to requesting the data extract {#steps-to-requesting-the-data-extract}
+
+1. A request is made to the existing supplier (source) to provide a ‘Data extract request form’ or similar. This is usually sent by the GP IT delivery partner (such as a Commissioning Support Unit) but this may differ by region.
+2. The existing supplier will send a ‘Data extract request form’ (or similar) directly to the practice.
+3. The practice completes and returns the form to the existing supplier (source) along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the Initial data production phase.
+4. The Source Supplier will ensure that the data is transferred to the new supplier (target) safely and securely.
 
 
 ### Arrange your Kick-off and Technical Survey
