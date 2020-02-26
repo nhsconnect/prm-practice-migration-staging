@@ -8,8 +8,8 @@ Help us improve the guide by sharing your feedback and learnings from your migra
 ## Share your feedback
  
 Share feedback [**using this survey**](https://forms.office.com/Pages/ResponsePage.aspx?id=Hwf2UP67GkCIA2c3SOYp4nsSJoMExjNAvWPV0wF8vLFUNUZRTE9FQjE2U0dLM1k1VFVRSVRQT0JXUC4u).
+<!-- {%- include action_link.html link="/improve-this-guide" title="Share feedback using our survey" -%} -->
 
-<!--{%- include action_link.html link="/improve-this-guide" title="Share feedback using our survey" -%} -->
 {% from 'action-link/macro.njk' import actionLink %}
 
 {{ actionLink({
