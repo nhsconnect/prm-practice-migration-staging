@@ -4,12 +4,17 @@ title: Help us improve this guide
 permalink: /improve-this-guide/
 ---
 
-## Share your feedback
-
-This is a beta version 1.5 of the guide and will continue to be updated while newer changes to the GPIT Futures framework evolves.  
-
 Help us improve the guide by sharing your feedback and learnings from your migration so that we can iterate and develope it as well as the overall migration process. 
 
+## Share your feedback
+
+{%- capture lesson_learnt_2 -%}
+This is a beta version 1.5 of the guide and will continue to be updated while newer changes to the GPIT Futures framework evolves.  
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
+
+ 
 Share feedback [**using this survey**](https://forms.office.com/Pages/ResponsePage.aspx?id=Hwf2UP67GkCIA2c3SOYp4nsSJoMExjNAvWPV0wF8vLFUNUZRTE9FQjE2U0dLM1k1VFVRSVRQT0JXUC4u).
 
 
