@@ -18,7 +18,7 @@ group: ccgs-reading-by-phase
 
 * [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/get-started#agree-a-provisional-go-Live-date)
 
-* [Has the current supplier been notified?](/prm-practice-migration/get-started#agree-a-provisional-go-Live-date)
+* [Has the current supplier been notified?](/prm-practice-migration/get-started#request-a-data-extract-from-the-current-supplier)
 
 #### Has the practice had a Technical survey?
 
