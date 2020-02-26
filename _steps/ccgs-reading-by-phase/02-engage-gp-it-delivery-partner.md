@@ -16,9 +16,9 @@ group: ccgs-reading-by-phase
 
 * [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#securing-dates-and-peoples-time)
 
-* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/get-started#agree-a-provisional-go-Live-date)
+* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#agree-a-provisional-go-Live-date)
 
-* [Has the current supplier been notified?](/prm-practice-migration/get-started#request-a-data-extract-from-the-current-supplier)
+* [Has the current supplier been notified?](/prm-practice-migration/guide/get-started#request-a-data-extract-from-the-current-supplier)
 
 #### Has the practice had a Technical survey?
 
