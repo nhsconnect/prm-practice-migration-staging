@@ -51,7 +51,7 @@ Steps to do this…
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->
 
 
-## Lessons learned and feedback
+## Lessons learned and feedback {#lessons-learned-and-feedback}
 
 We encourage you to hold a ‘lessons learned’ session with all the key people involved. It is a retrospective meeting whereby you look back at the events that took part during the migration and assess the following…
 
@@ -63,7 +63,7 @@ We encourage you to hold a ‘lessons learned’ session with all the key people
 
 * What would you do differently if you had to migrate again?
 
-Any learnings from this session can be used by the Clinical Commissioning Group (CCG) or delivery partner (such as a Commissioning Support Unit) to iterate and improve processes for future migrations.
+Any learnings from this session can be used by the CCG or delivery partner to iterate and improve processes for future migrations.
 
 
 ## Share your learnings
@@ -73,5 +73,5 @@ Help us improve the guide by sharing your feedback and learnings from your migra
 Share feedback [**using this survey**](https://forms.office.com/Pages/ResponsePage.aspx?id=Hwf2UP67GkCIA2c3SOYp4nsSJoMExjNAvWPV0wF8vLFUNUZRTE9FQjE2U0dLM1k1VFVRSVRQT0JXUC4u).
 
 
-You can also send feedback and learnings to <a href="mailto:nhsdigitalpracticemigrationteam@nhs.net?subject=Practice%20migration%20feedback%20-%20FAO%20The%20Practice%20Migration%20Team,%20NHSD%20Digital&body=For%20the%20attention%20of%20The%20Practice%20Migration%20Team,%20NHS Digital">nhsdigitalpracticemigrationteam@nhs.net</a> marked for the attention of The Practice Migration Team, NHS Digital.
+You can also send feedback and learnings to <a href="mailto:nhsdigitalpracticemigrationteam@nhs.net?subject=Practice%20migration%20feedback%20-%20FAO%20The%20Practice%20Migration%20Team,%20NHSD%20Digital&body=For%20the%20attention%20of%20The%20Practice%20Migration%20Team,%20NHS Digital">nhsdigitalpracticemigrationteam@nhs.net</a> marked for the attention of **The Practice Migration Team, NHS Digital**.
 
