@@ -3,7 +3,7 @@ layout: page
 title: Help us improve this guide
 permalink: /improve-this-guide/
 ---
-Help us improve the guide by sharing your feedback and learnings from your migration so that we can iterate and develope it as well as the overall migration process. 
+Help us improve the guide by sharing your feedback and learnings from your migration so that we can iterate and develop it as well as the overall migration process. 
 
 ## Share your feedback
 <!-- Share feedback [**using this survey**](https://forms.office.com/Pages/ResponsePage.aspx?id=Hwf2UP67GkCIA2c3SOYp4nsSJoMExjNAvWPV0wF8vLFUNUZRTE9FQjE2U0dLM1k1VFVRSVRQT0JXUC4u).-->
