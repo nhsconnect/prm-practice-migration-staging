@@ -10,13 +10,13 @@ group: ccgs-reading-by-phase
 
 #### Do you have an agreed date for when the practice will Go-Live on the new solution?
 
-* [Agree a provisional Go-Live date](prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
+* [Agree a provisional Go-Live date](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
 
 * [Checking the dates against availability](/prm-practice-migration/guide/kick-off#check-dates-against-availability)
 
 * [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#securing-dates-and-peoples-time)
 
-* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#agree-a-provisional-go-Live-date)
+* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
 
 * [Has the current supplier been notified?](/prm-practice-migration/guide/get-started#request-a-data-extract-from-the-current-supplier)
 
