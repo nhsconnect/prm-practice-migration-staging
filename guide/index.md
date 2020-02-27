@@ -24,7 +24,7 @@ Performing a migration inevitably involves access to - and processing of - signi
 
 ## How long does a migration take?
 
-The end to end migration process takes between 12-16 weeks. This is from the point of placing the order for the new solution to the end of the  migration process.
+The end to end migration process takes between 12-16 weeks. This is from the point of placing the order for the new system to the end of the  migration process.
 
 
 ## Overview of key phases

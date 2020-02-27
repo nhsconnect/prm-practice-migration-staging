@@ -45,7 +45,7 @@ Steps to do this…
 * The new supplier (target) provides a ‘GPSoC-R Deployment Survey Form’ to the practice
 * The practice completes the ‘GPSoC-R Deployment Survey Form’
   - The form includes a Go-Live Date. It is essential that the Go-Live Date is entered.
-  - The form includes a ‘Deployment Score’ section. This allows the practice to review their satisfaction with the deployment of the solution or service
+  - The form includes a ‘Deployment Score’ section. This allows the practice to review their satisfaction with the deployment of the system or service
   - The form includes a ‘Comments’ section. This allows the practice detail why they gave the Deployment Score and detail any areas where they feel the supplier could improve their Deployment Service
 * Once the survey is complete, the practice sends the Deployment Survey Form to the Clinical Commissioning Group or Commissioning Support Unit (whichever is the assigned Tracking database administrator)
 * The above assigned Tracking database administrator updates the Tracking database Schedule A Maintenance screen with the information that the practice has provided -->

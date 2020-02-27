@@ -39,7 +39,7 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 
 ### Configure devices
 
-Depending on which solution the practice is migrating to, configuration of devices (eg. scanners, check-in and call waiting boards) may occur pre-Go-Live or on Go-Live day, however these generally cannot be connected to the new system until Go-Live day. This is usually completed by the delivery partner.  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go Live -->
+Depending on which system the practice is migrating to, configuration of devices (eg. scanners, check-in and call waiting boards) may occur pre-Go-Live or on Go-Live day, however these generally cannot be connected to the new system until Go-Live day. This is usually completed by the delivery partner.  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go Live -->
 
 
 ### Hardware replacement
@@ -49,7 +49,7 @@ Incompatible equipment identified in the [Technical Survey](technical-survey) ma
 
 ### Activate Smartcards
 
-Depending on the clinical solution the practice is migrating to, the solution will be configured for staff, roles and names of sites either before the Go-Live or on Go-Live day. Smart cards will also need to be activated at the appropriate time. Who does this varies between the delivery partner, trainers and practice staff.
+Depending on the clinical system the practice is migrating to, the solution will be configured for staff, roles and names of sites either before the Go-Live or on Go-Live day. Smart cards will also need to be activated at the appropriate time. Who does this varies between the delivery partner, trainers and practice staff.
 
 
 ### Transfer Booked Appointments

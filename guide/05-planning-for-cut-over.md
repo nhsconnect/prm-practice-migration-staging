@@ -72,9 +72,9 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### Consultations: 
  
-* Carry on as normal entering notes in the current solution and manually transfer these to the new system as part of the data re-entry process once you have gone live. Having Clinicians and staff to re-enter this data helps to reduce re-interpretation of what the data is meant to be.
+* Carry on as normal entering notes in the current system and manually transfer these to the new system as part of the data re-entry process once you have gone live. Having Clinicians and staff to re-enter this data helps to reduce re-interpretation of what the data is meant to be.
 
-* It should be possible to copy and paste the free text from the current solution consultations  into the new solution, however coded data will need to be entered manually.
+* It should be possible to copy and paste the free text from the current system consultations  into the new system, however coded data will need to be entered manually.
 
 * The practice should have access to the previous system for several weeks post Go-Live, however should this not be the case or you still have data to enter at the end of this period then the practice staff may need to print out the remaining consultations or data from the previous system.
 
@@ -122,17 +122,17 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### Links:
 
-* Recommended cut off periods for Registration and Pathology links will have been advised by  your CCG or delivery partner or the new solution supplier.  The CCG or delivery partner may organise this with the relevant organisations on your behalf, but if not you will need to ensure that you have the correct contact details for this
+* Recommended cut off periods for Registration and Pathology links will have been advised by  your CCG or delivery partner or the new system supplier.  The CCG or delivery partner may organise this with the relevant organisations on your behalf, but if not you will need to ensure that you have the correct contact details for this
 
 * Ask the lab to send all results in paper format during Cutover so that your clinicians can review them and take action as appropriate.
 
-* The backlog of pathology results should be sent electronically once you are live on the new solution so you will not need to manually enter these from the paper copies,  but you will need to confirm with your local provider.
+* The backlog of pathology results should be sent electronically once you are live on the new system so you will not need to manually enter these from the paper copies,  but you will need to confirm with your local provider.
 
 
 
 ### Referrals: 
  
-* Print an extra copy of any referrals done during Cutover period and note the UBRN on the printout. These can then be scanned into the new solution post Go-Live. 
+* Print an extra copy of any referrals done during Cutover period and note the UBRN on the printout. These can then be scanned into the new system post Go-Live. 
 
 * Remember to enter the referral code on the new system if required.
 
@@ -141,11 +141,11 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### Scanning:
   
-* Everything that comes in during the Cutover period will need to be scanned into the new solution post Go-Live.
+* Everything that comes in during the Cutover period will need to be scanned into the new system post Go-Live.
 
 * Practices may choose to continue scanning during Cutover to enable easy access to correspondence for clinicians, others may choose not to. 
 
-* In either case, it will be necessary to scan everything into the new solution once live, therefore make sure that all the incoming paper copies are kept together. 
+* In either case, it will be necessary to scan everything into the new system once live, therefore make sure that all the incoming paper copies are kept together. 
 
 
 
@@ -156,7 +156,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
 
-* Leave all the messages received during the Cutover period in the generic mailbox as they can be picked up from there and dropped into the new solution once you are live.
+* Leave all the messages received during the Cutover period in the generic mailbox as they can be picked up from there and dropped into the new system once you are live.
 
 * You may want to print copies for your GPs to view, or ask them to review in the mailbox, to ensure that anything requiring attention is dealt with.
 
@@ -166,15 +166,15 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### Out of hours: {#out-of-hours}  
 
-* The ‘Out of hours’ reports will continue to come into the current solution during Cutover.
+* The ‘Out of hours’ reports will continue to come into the current system during Cutover.
 
-* You will need to keep a copy of each for scanning into the new solution once live.
+* You will need to keep a copy of each for scanning into the new system once live.
 
 
 
 ### Summarisation and routine data entry:  {#summarisation}
 
-* Do not do summarisation and routine data entry during the ‘Cutover’ period as the data will not be transferred to the new solution.
+* Do not do summarisation and routine data entry during the ‘Cutover’ period as the data will not be transferred to the new system.
 
 <!-- [Removed]
 {%- capture lesson_learnt_2 -%}
@@ -188,7 +188,7 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 
 * Maintenance support for the old (legacy) system will continue for 3 months post Go-Live and the practice will continue to have access during this period
 
-* Depending on which solution you are migrating to, any patients (other than deceased) deducted before your Final Data Production may not migrate
+* Depending on which system you are migrating to, any patients (other than deceased) deducted before your Final Data Production may not migrate
 
 * We strongly recommend that practices draft in additional support/cover so that there is dedicated people/time for testing and re-entry
 

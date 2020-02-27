@@ -2,16 +2,16 @@
 layout: page_with_sidebar
 permalink: /guide/go-live
 title: Go-Live
-subtitle:  The beginning of the new supplier’s solution
+subtitle:  The beginning of the new supplier’s system
 nextpage: /guide/post-go-live
 previouspage: /guide/cutover
 breadcrumbparent: /guide
 ---
 
 
-Following directly after Cutover, the practice ‘Sign off’ the Go-Live data, and commences the beginning of the new supplier’s solution. 
+Following directly after Cutover, the practice ‘Sign off’ the Go-Live data, and commences the beginning of the new supplier’s system. 
 
-* The old solution is now read only and available for another 45 days as standard - **check this with your old supplier to ensure that they do not terminate access early.**
+* The old system is now read only and available for another 45 days as standard - **check this with your old supplier to ensure that they do not terminate access early.**
 
 * Third party solutions should come back online.
 
@@ -36,7 +36,7 @@ On Go-Live day there will be data checking activities that you need to complete.
 
 ### Switch links back on and notify 3rd parties
 
-Now your new solution is up and running you can contact all the connecting solutions and community services that the system/solution or the practice works with, to switch services back on, for example:
+Now your new system is up and running you can contact all the connecting solutions and community services that the system/solution or the practice works with, to switch services back on, for example:
 
 * Third party software/solution suppliers, for example DocMan or Apollo Scan for document scanning and management.
 
@@ -52,9 +52,9 @@ The practice should re-check the patients identified and tested previously as pa
 Practice staff should recheck reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and the remapping of local codes.
 
 
-### Training on the new solution
+### Training on the new system
 
-Practice staff may have already received [training for the new solution](/prm-practice-migration/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
+Practice staff may have already received [training for the new system](/prm-practice-migration/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
 
 ## What to look out for
 
