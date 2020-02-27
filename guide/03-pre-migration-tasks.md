@@ -30,7 +30,7 @@ Additional data extractions should be carried out at the same time as the main o
 
 __The request needs to be completed as early as possible__. The current suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
-## Clean up the current solution data
+## Clean up the current system data
 
 The new supplier, delivery partner or CCG can advise the practice on any common or known data issues when migrating to the new system. It is beneficial to review the quality of the data in the current system and carry out any required remedial actions before the first data extraction. This may reduce the amount of issues that are found during data checking and the subsequent work required to resolve these.
 
@@ -74,7 +74,7 @@ Some third party products suppliers may charge a fee to move the product license
 
 It may be necessary to migrate data from subsidiary suppliers (also referred to as [Lot 1 services]((https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of the migration (eg. DocMan or Apollo Scan for document scanning and management).
 
-__Regardless of whether you plan to migrate away from the subsidiary supplier or integrate with them, you will need to give notice to them of your solution change__. The notice period required will vary depending on the system. 
+__Regardless of whether you plan to migrate away from the subsidiary supplier or integrate with them, you will need to give notice to them of your system change__. The notice period required will vary depending on the system. 
 
    -- If you require a data extract from the subsidiary supplier, this should be requested at the same time as you place the order for the new system. 
 

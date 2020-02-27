@@ -6,4 +6,4 @@ order: 3
 group: migration-key-phases
 ---
 
-Involves discussions with all the key people who will take part in the end-to-end process of migrating your solution
+Involves discussions with all the key people who will take part in the end-to-end process of migrating your system

@@ -8,7 +8,7 @@ group: ccgs-reading-by-phase
 
 * Have you or the practice engaged with the GP IT delivery partner to make them aware of the migration? (such as a Commissioning Support Unit)
 
-#### Do you have an agreed date for when the practice will Go-Live on the new solution?
+#### Do you have an agreed date for when the practice will Go-Live on the new system?
 
 * [Agree a provisional Go-Live date](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
 

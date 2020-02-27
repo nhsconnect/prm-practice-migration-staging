@@ -6,7 +6,7 @@ order: 1
 group: practice-manager-staff-reading-by-phase
 ---
 
-#### Do you have an agreed date for when the practice will Go-Live on the new solution?
+#### Do you have an agreed date for when the practice will Go-Live on the new system?
 
 * [Agree a provisional Go-Live date](/prm-practice-migration/blob/master/guide/00-get-started.md#agree-a-provisional-go-live-date)
 <!-- [Update] Relinked to "get started' page -->

@@ -10,15 +10,15 @@ group: project-manager-reading-by-phase
 
 * [Do you have a list and plan for each 3rd party service that will need to make changes during the cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
 
-* Have you identified what letter templates will need to be recreated in the new solution?
+* Have you identified what letter templates will need to be recreated in the new system?
 
-* Have you identified what Data entry templates will need to be recreated in the new solution?
+* Have you identified what Data entry templates will need to be recreated in the new system?
 
 * Have the practice cleared down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration
 
 * Do you know the exact date/time when the final data extract will be taken?
 
-* At the time of the final data extract, have you ensured that all users are logged off the existing supplier solution (source) so that the supplier can do the data extraction?
+* At the time of the final data extract, have you ensured that all users are logged off the existing supplier system (source) so that the supplier can do the data extraction?
 
 #### Do you have a plan for how you will handle the following during the cutover?
 
@@ -49,6 +49,6 @@ group: project-manager-reading-by-phase
 * [Summarisation and routine data entry](/prm-practice-migration/guide/planning-for-cut-over#summarisation)
 
 
-#### Does the practice have a plan for how you will re-enter any data that is not migrated to the new solution during the cutover?
+#### Does the practice have a plan for how you will re-enter any data that is not migrated to the new system during the cutover?
 
 * [Data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)

@@ -6,4 +6,4 @@ order: 14
 group: migration-key-phases
 ---
 
-Practice staff re-enter data for all activities that took place in the previous solution during the Cutover period (e.g. Appointments, Prescriptions and consultations etc).
+Practice staff re-enter data for all activities that took place in the previous system during the Cutover period (e.g. Appointments, Prescriptions and consultations etc).

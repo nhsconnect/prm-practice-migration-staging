@@ -6,13 +6,13 @@ order: 5
 group: practice-manager-staff-reading-by-phase
 ---
 
-* [Have you notified any 3rd party services to switch their services back on, pointing to the new solution?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
+* [Have you notified any 3rd party services to switch their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
 
 * [Have registration links been checked post Go-Live?](/prm-practice-migration/guide/post-go-live#registration)
 
 * [Are online patient services available such as the ability to book appointments?](/prm-practice-migration/guide/post-go-live#online-services)
 
-* [Do you still have access to the old solution?](/prm-practice-migration/guide/post-go-live#access-to-the-old-system)
+* [Do you still have access to the old system?](/prm-practice-migration/guide/post-go-live#access-to-the-old-system)
 
 * [Do you have dedicated people and known methods for data re-entry after Go-Live?](/prm-practice-migration/guide/post-go-live#data-re-entry)
 

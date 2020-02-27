@@ -15,10 +15,10 @@ breadcrumbparent: /guide
 
 ### During the cut-over
 
-* The new supplier will import the data into the new solution
+* The new supplier will import the data into the new system
 
 
-* **Data entered into the current solution will not be migrated into the new one.** Practices may still enter data but it will not be migrated. Therefore, keep a record of any data entered into the old solution for manual re-entry after Go-Live. 
+* **Data entered into the current system will not be migrated into the new one.** Practices may still enter data but it will not be migrated. Therefore, keep a record of any data entered into the old system for manual re-entry after Go-Live. 
 
 
 * It will not be possible to register patients during Cutover.
@@ -44,7 +44,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * Ensure plans are in place for any migration or changes to subsidiary suppliers, for example DocMan or Apollo Scan for document scanning and management
 ([see information in Pre-migration planning phase](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers))
 
-* Export any letter templates and clinical templates to Microsoft Word from the current solution so that they can be imported to the new solution at Go-Live. Trainers should be able to assist with this process.
+* Export any letter templates and clinical templates to Microsoft Word from the current system so that they can be imported to the new system at Go-Live. Trainers should be able to assist with this process.
 
 * New registrations cannot be entered during Cutover so the practice should ensure that these are held back for entry post Go-Live and also have a mechanism in place to record activities associated with new patients (eg. consultations or prescription requests, to enable entry after Go-Live).
 
@@ -61,9 +61,9 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 * Put breather slots in the rotas on the current system for the first few days post Go-Live. Putting these slots in the rotas on the current system ensures that these can be transferred to the rotas on the new system.
 
-* Building rotas on the test system before the Cutover may be possible, but depends on the solution the practice is migrating to. This could then be exported and then imported into the live system. 
+* Building rotas on the test system before the Cutover may be possible, but depends on the system the practice is migrating to. This could then be exported and then imported into the live system. 
 
-* Limit the advanced rotas on the current solution to no further in advance than two weeks post Go-Live as all booked appointments will need to be manually transferred to the new system on Go-Live day.
+* Limit the advanced rotas on the current system to no further in advance than two weeks post Go-Live as all booked appointments will need to be manually transferred to the new system on Go-Live day.
 
 * If possible, reschedule data rich chronic disease clinics so that these are not taking place during the cutover period.
 

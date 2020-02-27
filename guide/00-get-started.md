@@ -2,7 +2,7 @@
 layout: page_with_sidebar
 permalink: /guide/get-started
 title: Get started
-subtitle: How to start your migration to another clinical solution
+subtitle: How to start your migration to another clinical system
 previouspage: /guide
 nextpage: /guide/kick-off
 ---

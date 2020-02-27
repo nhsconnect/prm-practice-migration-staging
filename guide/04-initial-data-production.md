@@ -10,7 +10,7 @@ breadcrumbparent: /guide
 
 ## What is the Initial Data Production?
 
-The Initial Data Production is the point at which a copy of the current clinical solution data is provided to the new supplier, who import it into a test version of their system.
+The Initial Data Production is the point at which a copy of the current clinical system data is provided to the new supplier, who import it into a test version of their system.
 
 The Initial Data Production activity enables [data checking](#data-checking) to begin – the practice will perform data checking tasks in the test system to make sure that the imported patient data matches how it was when it was taken from your current system. 
 During this stage, the new supplier will provide a set of test criteria for data checking. The practice will be asked to find patient records that match the set criteria (up to 20 records) and a selection of random records. 
@@ -24,7 +24,7 @@ The new supplier or delivery partner (such as a CSU) will assist with the initia
 * The relevant members of the **practice team**
 * Possibly the **delivery partner** - who support the practice and work with the suppliers (the level of support available can vary by area)
 
-## Set up access to the new solution
+## Set up access to the new system
 
 As part of the Initial Data Production phase, the practice will be given access to the test system. The new supplier will setup admin users (about 1-3) and show them how to set up logins for the rest of the practice team.
 The new supplier or delivery partner should provide brief basic training on the new system so that users are able to carry out the Initial Data Production activities.
@@ -88,7 +88,7 @@ The majority of testing will focus on the identified patient records—from the 
 
 Alongside checking the identified patient records, the practice will be asked to check and compare reports such as QOF reports and indicator points, cytology and immunisation target reports, capitation figures and remapping local codes.
 
-Data checking is a manual process; ideally, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the current solution and the other displaying the test version of the new solution. Staff will cross-reference the two to check their consistency. If use of 2 monitors is not possible, then print out the full patient records and reports as required from the current system.
+Data checking is a manual process; ideally, the practice staff will complete the activity with the use of two monitors side-by-side, one displaying the current system and the other displaying the test version of the new system. Staff will cross-reference the two to check their consistency. If use of 2 monitors is not possible, then print out the full patient records and reports as required from the current system.
 
 ### Reporting issues with data {#reporting-issues-with-data}
 
