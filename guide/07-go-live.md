@@ -19,6 +19,7 @@ Following directly after Cutover, the practice ‘Sign off’ the Go-Live data, 
 ## Who is involved
 * Practice Staff
 * Project Manager
+* Lead GP
 * CCG / Delivery Partners
 * Trainers
 * New Supplier
