@@ -61,7 +61,8 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 
 * SMS providers (such as eConsultation and AccuRx-Chain). Practices will need to decide how these messages will be captured and stored during Cutover.
 * Login of patients to NHS app may be affected if the IM1 credentials of the practice change during the migration. Similarly, access to other apps like Evergreen life may be affected and practices will need to liaise with these third parties.
-* Patient Online Services may need to be contacted to issue new patient access IDs, since the patient access IDs for current supplier may not grant access into the portal of the new supplier 
+* Patient Online Services may need to be contacted to issue new patient access IDs, since the patient access IDs for current supplier may not grant access into the portal of the new supplier
+* Depending on the system the practice is migrating to, patients' emails may need to be re-verified. There may be a checkbox beside each patient email indicating (in the current system) whether it has been verified or not. If this checkbox is not ticked, the practice may experience difficulties in the transfer of these patient email addresses.
 * Pathology labs and any other services or providers that send information and results automatically to the current system (eg. screening services, Hospital letters, 111, Out of hours)
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/) 
