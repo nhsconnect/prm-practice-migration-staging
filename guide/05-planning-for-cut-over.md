@@ -57,7 +57,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 ## Best practices and tactics for reducing the cut-over impact
 
 
-### Appointments:  
+### Appointments  
 
 * Put breather slots in the rotas on the current system for the first few days post Go-Live. Putting these slots in the rotas on the current system ensures that these can be transferred to the rotas on the new system.
 
@@ -70,7 +70,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Consultations: 
+### Consultations 
  
 * Carry on as normal entering notes in the current system and manually transfer these to the new system as part of the data re-entry process once you have gone live. Having Clinicians and staff to re-enter this data helps to reduce re-interpretation of what the data is meant to be.
 
@@ -80,7 +80,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Home visits:  
+### Home visits  
 
 * Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go Live phase  
 
@@ -97,7 +97,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * In order to negate the risk of missed information it is useful to create a rota in the current system, , so that all the calls made can be logged. 
 
 
-### Prescriptions: 
+### Prescriptions 
 
 * Within the Electronic Prescribing System (ePS), repeat dispensing prescriptions are issued individually by the prescribing system and signed and sent individually to Spine as required for the patient. There is a dependency on the prescribing system to retain the information after a migration as it needs to continue generating prescription issues for the authorised period.
 
@@ -120,7 +120,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * With either of these options it is important that patients and pharmacies are informed of this change at the earliest opportunity to avoid any confusion
 
 
-### Links:
+### Registration and Pathology
 
 * Recommended cut off periods for Registration and Pathology links will have been advised by  your CCG or delivery partner or the new system supplier.  The CCG or delivery partner may organise this with the relevant organisations on your behalf, but if not you will need to ensure that you have the correct contact details for this
 
@@ -130,7 +130,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Referrals: 
+### Referrals 
  
 * Print an extra copy of any referrals done during Cutover period and note the UBRN on the printout. These can then be scanned into the new system post Go-Live. 
 
@@ -139,7 +139,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
    (For further information see [The Advice and guidance toolkit for the NHS e-Referral Service (e-RS)](https://digital.nhs.uk/services/e-referral-service/document-library/advice-and-guidance-toolkit))
 
 
-### Scanning:
+### Scanning
   
 * Everything that comes in during the Cutover period will need to be scanned into the new system post Go-Live.
 
@@ -149,12 +149,12 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Screening services:  
+### Screening services  
 
 * If there are any screening services that send results electronically directly to the clinical system, the service should be asked to stop sending messages from around two days before Cutover starts until after Go-Live.
 <!-- [UPLIFT] this section was made more generic so that it could include breast screening, diabetic retinopathy etc -->
 
-### 111 messages/Incoming clinical correspondence:  {#one-one-one-messages}
+### 111 messages/Incoming clinical correspondence  {#one-one-one-messages}
 
 * Leave all the messages received during the Cutover period in the generic mailbox as they can be picked up from there and dropped into the new system once you are live.
 
@@ -164,7 +164,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Out of hours: {#out-of-hours}  
+### Out of hours {#out-of-hours}  
 
 * The ‘Out of hours’ reports will continue to come into the current system during Cutover.
 
@@ -172,7 +172,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-### Summarisation and routine data entry:  {#summarisation}
+### Summarisation and routine data entry  {#summarisation}
 
 * Do not do summarisation and routine data entry during the ‘Cutover’ period as the data will not be transferred to the new system.
 
@@ -184,7 +184,7 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 <!-- [Removed]{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%} -->
 
 
-## Additional notes:  
+## Additional notes  
 
 * Maintenance support for the old (legacy) system will continue for 3 months post Go-Live and the practice will continue to have access during this period
 
