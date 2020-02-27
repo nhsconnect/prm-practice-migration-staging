@@ -65,7 +65,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 * Limit the advanced rotas on the current system to no further in advance than two weeks post Go-Live as all booked appointments will need to be manually transferred to the new system on Go-Live day.
 
-* If possible, reschedule data rich chronic disease clinics so that these are not taking place during the cutover period.
+* If possible, reschedule data rich chronic disease clinics so that these are not taking place during the Cutover period.
 
 
 

@@ -30,6 +30,6 @@ The approach, amount and timing of training widely differs from region to region
 
 * Supplier trainers tend to follow fixed training plans so make sure to agree upfront what the practice needs are and whether you want to deviate from the planned agenda.
 
-* Arrange pre-cutover training as close to the cutover date as you can for training information retention
+* Arrange pre-Cutover training as close to the Cutover date as you can for training information retention
 
 * If possible, try to hold onto some training days to use after the migration and use for times where staff will be using a different part of the system or module. For example, you may want to reserve time for Quality Outcome Framework (QOF) module training when QOF is due. If the practice covered this module during the migration in September, but do not use this part of the solution until February/March they may not retain all the information

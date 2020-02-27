@@ -13,7 +13,7 @@ By now the practice will have completed the Go-Live steps and the practice staff
 
 ## Data re-entry
 
-If you have followed any manual processes during cutover that you established during the [Cutover planning phase](/prm-practice-migration/guide/planning-for-cut-over#appointments), you can now start the task of re-entering the data captured.
+If you have followed any manual processes during Cutover that you established during the [Cutover planning phase](/prm-practice-migration/guide/planning-for-cut-over#appointments), you can now start the task of re-entering the data captured.
 
 
 {%- capture lesson_learnt_1 -%}

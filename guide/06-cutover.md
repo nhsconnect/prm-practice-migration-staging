@@ -18,7 +18,7 @@ During the Cutover phase, you will carry out all the activities planned for in t
 * New Supplier
 
 
-## What to expect during the cutover
+## What to expect during the Cutover
 
 ### Final data production 
 The Cutover begins when the current supplier produces a final data extraction of the current system. This extract is given to the new supplier who imports the data into the live version of the new system. 

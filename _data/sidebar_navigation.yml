@@ -12,7 +12,7 @@ sidebar_items:
     url: /guide/pre-migration-tasks
   - title: Initial data production & data checking
     url: /guide/initial-data-production
-  - title: Planning for the cutover
+  - title: Planning for the Cutover
     url: /guide/planning-for-cut-over
   - title: Cutover
     url: /guide/cutover

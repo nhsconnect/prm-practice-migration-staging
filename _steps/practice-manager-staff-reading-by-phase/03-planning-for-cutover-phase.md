@@ -1,5 +1,5 @@
 ---
-title: Planning for the cutover phase
+title: Planning for the Cutover phase
 title_url:
 subtitle: 
 order: 3
@@ -8,7 +8,7 @@ group: practice-manager-staff-reading-by-phase
 
 * Do you have start/finish dates for the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
 
-* [Do you have a list and plan for each 3rd party service that will need to make changes during the cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
+* [Do you have a list and plan for each 3rd party service that will need to make changes during the Cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
 
 * Have you identified what letter templates you will need to recreate in the new system?
 
@@ -50,6 +50,6 @@ group: practice-manager-staff-reading-by-phase
 * [Summarisation and routine data entry](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#summarisation-and-routine-data-entry--summarisation)
 
 
-#### Do you have a plan for how you will re-enter any data that is not migrated to the new system during the cutover?
+#### Do you have a plan for how you will re-enter any data that is not migrated to the new system during the Cutover?
 
 * [Data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
