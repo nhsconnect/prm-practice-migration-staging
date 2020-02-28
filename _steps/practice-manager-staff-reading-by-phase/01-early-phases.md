@@ -27,7 +27,7 @@ group: practice-manager-staff-reading-by-phase
 * [Get ahead and clean up your data](/prm-practice-migration/guide/pre-migration-tasks#clean-up-the-current-system-data)
 <!-- [Update] Relinked to "pre-migration" page -->
 
-* [Select patient records for testing/data checking](/prm-practice-migration/guide/pre-migration-planning#data-checking-preparation)
+* [Select patient records for testing/data checking](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation)
 <!-- [Update] Relinked to "pre-migration" page -->
 
 * [Do you have a plan for the data checking phases?](/prm-practice-migration/guide/initial-data-production#data-checking)
@@ -38,12 +38,12 @@ group: practice-manager-staff-reading-by-phase
 
 **Have you notified 3rd party solutions and links?**
 
-* [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
+* [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notification-of-third-parties-and-links)
 
 
 **Have you notified patients of any disruption or changes**
 
-* [Notify patients](/prm-practice-migration/guide/pre-migration-tasks#notification-of-patients)
+* [Notify patients](/prm-practice-migration/guide/pre-migration-tasks#notifying-patients)
 
 **Have you had a Technical Survey?**
 
