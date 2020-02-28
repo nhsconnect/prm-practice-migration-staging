@@ -30,7 +30,7 @@ Additional data extractions should be carried out at the same time as the main o
 
 __The request needs to be completed as early as possible__. The current suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
-## Clean up the current system data
+## Clean up the current system data {#clean-up-the-current-system-data}
 
 The new supplier, delivery partner or CCG can advise the practice on any common or known data issues when migrating to the new system. It is beneficial to review the quality of the data in the current system and carry out any required remedial actions before the first data extraction. This may reduce the amount of issues that are found during data checking and the subsequent work required to resolve these.
 
@@ -55,7 +55,7 @@ __Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if th
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
-## Notifying third parties and links
+## Notifying third parties and links {#notifying-third-parties-and-links}
 
 Refer back to the list created at the Kick-off of all the supporting/connecting solutions, patient and community services that the system or the practice works with, such as:
 
@@ -103,6 +103,6 @@ Schedule your training plan and book rooms. Have dedicated cover/support during 
 
 If the [Technical Survey] (technical-survey)identified any additional hardware or software requirements, make sure that these are scheduled in and that access is available.
 
-## Data checking preparation
+## Data checking preparation {#data-checking-preparation)
 
 The new supplier will provide a set of test criteria for data checking. The practice will be asked to find patient records that match these criteria (usually up to 20 records) and a selection of random records. Usually, the new supplier or delivery partner will assist with the initial selection of records before asking the practice to complete finding the remaining patient records unaided. You will need to supply a list of the selected patients to the new supplier as well as various reports such as QOF and target reports.
