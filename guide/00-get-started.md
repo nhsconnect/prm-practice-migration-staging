@@ -26,7 +26,7 @@ This guide begins from the point at which the CCG has approved the practice’s 
 
 Once the decision to migrate has been confirmed, the next steps are to...
 
-## Agree a provisional Go-Live date {#agree-a-provisional-Go-Live-date}
+## Agree a provisional Go-Live date {#agree-a-provisional-go-live-date}
 
 A provisional Go-Live date should be agreed between the practice and supporting functions - usually the CCG and/or delivery partner.
 
