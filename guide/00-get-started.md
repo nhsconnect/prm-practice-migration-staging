@@ -20,7 +20,7 @@ This guide begins from the point at which the CCG has approved the practice’s 
 * Completion of a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution
 * Confirmation and approval of funding by CCGs (and any local boards) for both the migration and any associated costs such as training and core hardware/software upgrades
    
-   -- _**Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration_
+ - **Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration. These should be considered by the CCG as quickly as possible to ensure availability of funding in line with the timing of the migration.
 * Engagement of practice and CCG with their delivery partner to secure support and management of the migration process in line with the GP IT Operating Model
 
 
@@ -65,4 +65,4 @@ This will also need to be completed for any other supplier who will need to migr
 
 Plan and book the [Kick-off meeting](/prm-practice-migration/guide/kick-off) that should include all key people who will be involved in the migration process (refer to list in the Kick-off section). Decide when to set up the [Technical Survey](/prm-practice-migration/guide/technical-survey) shortly after the Kick-off meeting has taken place. Some delivery partners conduct Technical Surveys remotely and do not necessarily need to be on site.
 
-**Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and paying for additional third party configurations. These should be considered by the CCG as quickly as possible to ensure availability of funding in line with the timing of the migration.
+
