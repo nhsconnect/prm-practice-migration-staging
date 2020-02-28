@@ -86,7 +86,7 @@ __Regardless of whether you plan to migrate away from the subsidiary supplier or
 Please be aware that reconfiguration work may be required by a subsidiary supplier after you have migrated to the new system ([Post Go-Live](post-go-live) to enable integration. 
 
 
-## Notifying patients
+## Notifying patients {#notifying-patients}
 
 During the migration, the practice may need to remove access to online services. It may also be necessary for patients to re-register onto the new online service (if applicable). The practice will need to plan for how it will notify patients of this potential requirement. 
 
@@ -103,6 +103,6 @@ Schedule your training plan and book rooms. Have dedicated cover/support during 
 
 If the [Technical Survey] (technical-survey)identified any additional hardware or software requirements, make sure that these are scheduled in and that access is available.
 
-## Data checking preparation {#data-checking-preparation)
+## Data checking preparation {#data-checking-preparation}
 
 The new supplier will provide a set of test criteria for data checking. The practice will be asked to find patient records that match these criteria (usually up to 20 records) and a selection of random records. Usually, the new supplier or delivery partner will assist with the initial selection of records before asking the practice to complete finding the remaining patient records unaided. You will need to supply a list of the selected patients to the new supplier as well as various reports such as QOF and target reports.
