@@ -10,7 +10,16 @@ This guide aims to help practices, GP IT delivery partners (referred to as ‘de
 
 This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them. It will continue to be updated, as the GP IT Futures framework develops and matures.
 
-Performing a migration inevitably involves access to - and processing of - significant amounts of patients’  personal data. It’s crucial, therefore, that all parties involved adhere to the laws, policies, standards and guidelines in respect to Information Governance, including:
+{%- capture lesson_learnt_2 -%} **This is a beta version 1.5** of the guide and will continue to be updated while changes to the GPIT Futures framework evolves.
+{%- endcapture -%}
+
+{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
+
+* * *
+
+## Information Governance
+
+Performing a migration inevitably involves access to——and processing of——significant amounts of patients’  personal data. It’s crucial, therefore, that all parties involved adhere to the laws, policies, standards and guidelines in respect to Information Governance, including:
 <!-- [UPLIFT] The Supplier Compliance Team requested that we add references to these documents in the Migration Guide -->
 >* [Access to Medical Reports Act (1988)](http://www.legislation.gov.uk/ukpga/1988/28/contents)
 >* [Access to Health Records Act (1990)](http://www.legislation.gov.uk/ukpga/1990/23)
@@ -21,6 +30,9 @@ Performing a migration inevitably involves access to - and processing of - signi
 >* [Records Management - NHS Code of Practice](https://digital.nhs.uk/data-and-information/looking-after-information/data-security-and-information-governance/codes-of-practice-for-handling-information-in-health-and-care/records-management-code-of-practice-for-health-and-social-care-2016) (DHSC)
 >* Encryption guidance for health and care organisations<!-- [GAP] link missing for 'encryption guidance' reference, do we even need this reference? -->
 >* [Chapter 8c of the General Practice GPG](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/215680/dh_125350.pdf)
+
+* * *
+
 
 ## How long does a migration take?
 
