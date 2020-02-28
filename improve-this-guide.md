@@ -10,8 +10,7 @@ Help us improve the guide by sharing your feedback and learnings from your migra
 You can also send feedback and learnings to <a href="mailto:nhsdigitalpracticemigrationteam@nhs.net?subject=Practice%20migration%20guide%20feedback%20v1.5%20Digital&body=For%20the%20attention%20of%20The%20Practice%20Migration%20Team,%20NHS Digital">nhsdigitalpracticemigrationteam@nhs.net</a>
 
 
-{%- capture lesson_learnt_2 -%}
-This is a beta version 1.5 of the guide and will continue to be updated while newer changes to the GPIT Futures framework evolves.  
+{%- capture lesson_learnt_2 -%} **This is a beta version 1.5** of the guide and will continue to be updated while changes to the GPIT Futures framework evolves.
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
