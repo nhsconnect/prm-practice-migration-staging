@@ -95,7 +95,7 @@ Look at your key dates and the people you need:
 
 The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over#what-is-the-cut-over) (and 2 days after Go-Live) and secure the availability of as many members of the practice team to support the migration as possible.
 
-###  Securing dates and people’s time 
+###  Securing dates and people’s time {#securing-dates-and-peoples-time}
 
 * Block time if required for key dates
 * Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
