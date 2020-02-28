@@ -31,7 +31,11 @@ Performing a migration inevitably involves access to—and processing of—signi
 >* Encryption guidance for health and care organisations<!-- [GAP] link missing for 'encryption guidance' reference, do we even need this reference? -->
 >* [Chapter 8c of the General Practice GPG](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/215680/dh_125350.pdf)
 
-{%- capture test_care -%} Blah blah blah
+{%- capture test_care -%} 
+Here is the list: 
+* Blah blah blah blah
+* bullet point 2 
+* bullet point 3
 {%- endcapture -%}
 
 {%- include carecard.html content=test_care accessibility_text="Gaps to be confirmed" heading="Gaps to be confirmed" markdown=true -%}
