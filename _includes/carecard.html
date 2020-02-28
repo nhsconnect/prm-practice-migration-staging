@@ -1,0 +1,32 @@
+{% comment %}
+The care card include displays content in a highlighted way.
+
+Parameters:
+    - include.content: Required. The content of what you want to be shown highlighted. HTML by default.
+    - include.heading: The heading. HTML by default.
+    - include.accessibility_text: The text that describes what information is presented for accessbility. 
+                                  Default is 'Information'
+    - include.markdown: Set to true if your include.content is in Markdown, so that it is transformed.
+
+{% endcomment %}
+
+<div class="nhsuk-care-card nhsuk-care-card--non-urgent">
+    <div class="nhsuk-care-card__heading-container">
+      <h3 class="nhsuk-care-card__heading">
+            <span role="text">
+                {%- if include.content -%}
+                <span class="nhsuk-u-visually-hidden">{{include.accessibility_text | default: "Information" }}</span>
+                {{include.heading | default: "Heading" }}
+                {%- endif -%} 
+            </span>
+        </h3>
+      <span class="nhsuk-care-card__arrow" aria-hidden="true"></span>
+    </div>
+    <div class="nhsuk-care-card__content">
+        {%- if include.markdown -%}
+            {{ include.content | markdownify }}
+        {%- else -%} 
+            {{ include.content }}
+        {%- endif -%}
+    </div>
+  </div>
