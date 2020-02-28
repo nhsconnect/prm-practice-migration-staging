@@ -12,7 +12,7 @@ group: practice-manager-staff-reading-by-phase
 
 * [Checking the dates against availability](/prm-practice-migration/guide/kick-off#check-dates-against-availability)
 
-* [Securing the dates and people's time](/prm-practice-migration/guide/kick-off#secure-your-dates-and-peoples-time)
+* [Securing the dates and people's time](/prm-practice-migration/guide/kick-off#securing-dates-and-peoples-time)
 
 * [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
 
