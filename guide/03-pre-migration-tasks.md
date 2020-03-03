@@ -50,7 +50,7 @@ The new supplier, delivery partner or CCG can advise the practice on any common 
 * Establishing which letter and data entry templates should be transferred into the new system. These will need to be manually copied over.
 
 {%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - DM&D may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go Live. 
+__Lesson learnt__ - dm+d may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go-Live. 
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
@@ -81,7 +81,7 @@ __Regardless of whether you plan to migrate away from the subsidiary supplier or
 
    -- The data extract from a subsidiary supplier should be completed at the same point in time as the main system extraction and provided to the new supplier following the agreed process.
 
-   -- This applies to both the Initial data extract and the Final data extract
+   -- This applies to both the initial data extract and the final data extract
 
 Please be aware that reconfiguration work may be required by a subsidiary supplier after you have migrated to the new system ([Post Go-Live](post-go-live) to enable integration. 
 
