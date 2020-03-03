@@ -46,5 +46,5 @@ The practice will be asked to sign off a form for Technical requirements.
 
 Any incompatible equipment may be replaced prior to Go-Live or on Go-Live day. 
 
-This is also a good opportunity to check and update the practice asset register of all hardware so that it is up to date as this will be useful to have on go live.
+This is also a good opportunity to check and update the practice asset register of all hardware so that it is up to date as this will be useful to have on Go-Live.
 
