@@ -1,7 +1,7 @@
 ---
 title: Cutover period
-title_url: /guide/cutover-and-go-live
-subtitle: 3 to 2 weeks
+title_url: /guide/cutover
+subtitle: Estimated timeline: 3 to 2 weeks
 order: 12
 group: migration-key-phases
 ---

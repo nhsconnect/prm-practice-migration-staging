@@ -13,18 +13,20 @@ When ordering a new system, check that you have thoroughly reviewed the system t
 
 This guide begins from the point at which the CCG has approved the practice’s request to change their current system and is ready to start the migration process.
 
-Note: This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
+**Note:** This is subject to the conditions described in the [CCG-Practice Agreement](https://www.england.nhs.uk/publication/terms-governing-the-provision-and-receipt-of-gpsoc-services-and-gp-it-services/)) 
 
-Prior to this, there are a number of steps that will have taken place, such as:
+**Prior to this, there are a number of steps that will have taken place, such as...**
 * Completion of a selection process under the GP IT Futures framework
 * Completion of a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution
 * Confirmation and approval of funding by CCGs (and any local boards) for both the migration and any associated costs such as training and core hardware/software upgrades
-   -- _**Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration_
+   
+    **Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration. These should be considered by the CCG as quickly as possible to ensure availability of funding in line with the timing of the migration.
 * Engagement of practice and CCG with their delivery partner to secure support and management of the migration process in line with the GP IT Operating Model
 
-Once the decision to migrate has been confirmed, the next steps are to:
 
-### Agree a provisional Go-Live date {#agree-a-provisional-Go-Live-date}
+Once the decision to migrate has been confirmed, the next steps are to...
+
+## Agree a provisional Go-Live date {#agree-a-provisional-go-live-date}
 
 A provisional Go-Live date should be agreed between the practice and supporting functions - usually the CCG and/or delivery partner.
 
@@ -36,14 +38,14 @@ __Recommendation__ - Avoid the busiest periods for your practice and surrounding
 
 {%- include inset.html content=lesson_learnt_1 accessibility_text="Recommendation" markdown=true -%}
 
-#### Order the new system
+### Order the new system
 
 The CCG or GP IT delivery partner (or local alternative) places the order using the agreed GP IT Futures process (to be confirmed).
 
 * CCG approves the order (this should then be sent to the supplier)
 * The new supplier receives and accepts the order (once done then a schedule of key dates should be obtained for discussion at the Kick-off meeting)
 
-### Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
+## Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
 
 A formal data extract request needs to be sent to the current supplier of the clinical system using the [steps detailed below](/prm-practice-migration/edit/master/guide/get-started#steps-to-requesting-the-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
 
@@ -59,6 +61,8 @@ This will also need to be completed for any other supplier who will need to migr
 4. The current supplier will ensure that the data is transferred to the new supplier safely and securely.
 
 
-### Arrange your Kick-off and Technical Survey
+## Arrange your Kick-off and Technical Survey
 
 Plan and book the [Kick-off meeting](/prm-practice-migration/guide/kick-off) that should include all key people who will be involved in the migration process (refer to list in the Kick-off section). Decide when to set up the [Technical Survey](/prm-practice-migration/guide/technical-survey) shortly after the Kick-off meeting has taken place. Some delivery partners conduct Technical Surveys remotely and do not necessarily need to be on site.
+
+
