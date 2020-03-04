@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-title: Clinical Comissioning Groups
+title: Clinical Commissioning Groups
 permalink: /guide/role/clinical-comissioning-groups
 ---
 
