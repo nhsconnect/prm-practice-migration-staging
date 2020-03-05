@@ -15,6 +15,8 @@ This guide will continue to be updated as the GP IT Futures framework develops a
 {%- endcapture -%}
 {%- include carecard.html content=beta_version2 accessibility_text="Please note" heading="Please note" markdown=true -%}
 
+* * *
+
 ## Information Governance
 
 Performing a migration inevitably involves access to—and processing of—significant amounts of patients’  personal data. It’s crucial, therefore, that all parties involved adhere to the laws, policies, standards and guidelines in respect to Information Governance, including:
