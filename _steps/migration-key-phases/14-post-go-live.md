@@ -1,7 +1,7 @@
 ---
 title: Post Go-Live
 title_url: /guide/post-go-live
-subtitle: 'Estimated timeline: 5 days to 2 weeks'(varies depending on size of practice and volume of data)
+subtitle: 'Estimated timeline: 5 days to 2 weeks(varies depending on size of practice and volume of data)'
 order: 14
 group: migration-key-phases
 ---
