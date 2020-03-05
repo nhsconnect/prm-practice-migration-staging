@@ -11,11 +11,11 @@ breadcrumbparent: /guide
 The migration will end at the point at which all data has been re-entered, practice staff are trained and are comfortably using the new system. Access to the old system has ended and the new system has been officially signed off by the practice.
 
 
-## The ‘run-off period’ {#the-run-off-period}
+## The ‘Post Go-Live period’ {#the-run-off-period}
 
-The ‘run-off period’ is used to describe the time whereby the practice has access to both the old and new systems. The run-off period should be agreed with the suppliers. Access to the old system is usually retained for cross referencing data, validation and mapping only.
+The ‘Post Go-Live period’ is used to describe the time whereby the practice has access to both the old and new systems. The Post Go-Live period should be agreed with the suppliers. Access to the old system is usually retained for cross referencing data, validation and mapping only.
 
-Practices sometimes require a longer run-off period and this should be agreed with the CCG as this may incur additional costs.
+Practices sometimes require a longer Post Go-Live period and this should be agreed with the CCG as this may incur additional costs.
 
 <!-- [UPLIFT] Removed specific reference to 45 days -->
 {%- capture lesson_learnt_3 -%}
