@@ -45,10 +45,10 @@ The CCG or GP IT delivery partner (or local alternative) places the order using 
 * CCG approves the order (this should then be sent to the supplier)
 * The new supplier receives and accepts the order (once done then a schedule of key dates should be obtained for discussion at the Kick-off meeting)
 
-{%- capture order_new_system -%} 
+{%- capture order_newsystem -%} 
 The process for ordering a new system is currently being finalised. As soon as the new process is ready, we will let you know. 
 {%- endcapture -%}
-{%- include carecard.html content=order_new_system accessibility_text="Watch this space" heading="⚐ Watch this space" markdown=true -%}
+{%- include carecard.html content=order_newsystem accessibility_text="⚐ Watch this space" heading="⚐ Watch this space" markdown=true -%}
 
 ## Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
 
