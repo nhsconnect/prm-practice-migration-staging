@@ -13,9 +13,7 @@ This is a generic guide and may not cover everything that happens in your migrat
 {%- capture beta_version2 -%} 
 This guide will continue to be updated as the GP IT Futures framework develops and matures.
 {%- endcapture -%}
-{%- include carecard.html content=beta_version2 accessibility_text="⚐ Please note" heading="⚐ Please note" markdown=true -%}
-
-{%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
+{%- include carecard.html content=beta_version2 accessibility_text="Please note" heading="Please note" markdown=true -%}
 
 * * *
 
