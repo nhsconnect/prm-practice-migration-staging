@@ -17,7 +17,7 @@ Whilst approaches to migration can differ by region, this guide contains a colle
 {%- capture beta_version -%} 
 This guide will continue to be updated as the GP IT Futures framework develops and matures.
 {%- endcapture -%}
-{%- include carecard.html content=beta_version accessibility_text="**☞** Please note" heading="Please note" markdown=true -%}
+{%- include carecard.html content=beta_version accessibility_text="☞ Please note" heading="Please note" markdown=true -%}
 
 {%- include button.html title="Read the guide" link="/guide" -%}
 
