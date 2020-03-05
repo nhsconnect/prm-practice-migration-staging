@@ -45,6 +45,11 @@ The CCG or GP IT delivery partner (or local alternative) places the order using 
 * CCG approves the order (this should then be sent to the supplier)
 * The new supplier receives and accepts the order (once done then a schedule of key dates should be obtained for discussion at the Kick-off meeting)
 
+{%- capture order_new_system -%} 
+The process for ordering a new system is currently being finalised. As soon as the new process is ready, we will let you know. 
+{%- endcapture -%}
+{%- include carecard.html content=order_new_system accessibility_text="Watch this space" heading="⚐ Watch this space" markdown=true -%}
+
 ## Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
 
 A formal data extract request needs to be sent to the current supplier of the clinical system using the [steps detailed below](/prm-practice-migration/edit/master/guide/get-started#steps-to-requesting-the-data-extract). This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
