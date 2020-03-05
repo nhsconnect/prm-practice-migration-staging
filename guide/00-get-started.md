@@ -17,6 +17,12 @@ This guide begins from the point at which the CCG has approved the practice’s 
 
 **Prior to this, there are a number of steps that will have taken place, such as...**
 * Completion of a selection process under the GP IT Futures framework
+
+{%- capture selection_process -%} 
+The selection process under GP IT Futures is currently being finalised. As soon as the new process is ready, we will let you know. 
+{%- endcapture -%}
+{%- include carecard.html content=selection_process accessibility_text="Please note" heading="Please note" markdown=true -%}
+
 * Completion of a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution
 * Confirmation and approval of funding by CCGs (and any local boards) for both the migration and any associated costs such as training and core hardware/software upgrades
    
@@ -40,7 +46,7 @@ __Recommendation__ - Avoid the busiest periods for your practice and surrounding
 
 ### Order the new system
 
-The CCG or GP IT delivery partner (or local alternative) places the order using the agreed GP IT Futures process (to be confirmed).
+The CCG or GP IT delivery partner (or local alternative) places the order.
 
 * CCG approves the order (this should then be sent to the supplier)
 * The new supplier receives and accepts the order (once done then a schedule of key dates should be obtained for discussion at the Kick-off meeting)
