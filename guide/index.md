@@ -10,8 +10,10 @@ This guide aims to help **practices**, **GP IT delivery partners** (referred to 
 
 This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them. This guide can be used in conjunction with any deployment schedules and guidance issued by your new supplier.
 
-{%- capture lesson_learnt_2 -%} **This is a beta version 1.5** of the guide and will continue to be updated, as the GP IT Futures framework develops and matures.
+{%- capture beta_version2 -%} 
+This guide will continue to be updated as the GP IT Futures framework develops and matures.
 {%- endcapture -%}
+{%- include carecard.html content=beta_version2 accessibility_text="⚐ Please note" heading="⚐ Please note" markdown=true -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
 
