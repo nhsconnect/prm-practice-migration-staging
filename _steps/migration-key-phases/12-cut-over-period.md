@@ -1,6 +1,6 @@
 ---
 title: Cutover period
-title_url: /guide/cutover
+title_url: /guide/cut-over
 subtitle: Estimated timeline: 3 to 2 weeks
 order: 12
 group: migration-key-phases
