@@ -8,7 +8,7 @@ nextpage: /guide/get-started
 
 This guide aims to help **practices**, **GP IT delivery partners** (referred to as ‘delivery partner’ throughout the guide) and **Commissioning Clinical Groups** (CCGs) plan and implement migrations from one foundation system (also known as ‘solution’) to another. Approaches to migration can differ by region. This guide contains a collection of common processes and activities to help the migration run smoothly.
 
-This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them.
+This is a generic guide and may not cover everything that happens in your migration, but it does aim to cover the key activities and make suggestions on how to act on them. This guide can be used in conjunction with any deployment schedules and guidance issued by your new supplier.
 
 {%- capture lesson_learnt_2 -%} **This is a beta version 1.5** of the guide and will continue to be updated, as the GP IT Futures framework develops and matures.
 {%- endcapture -%}
