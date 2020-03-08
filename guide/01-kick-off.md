@@ -76,10 +76,10 @@ The following is a list of common roles, teams and organisations to engage with 
 * **GP IT delivery partner** (also referred to as delivery partner)
 -- Explore with them the availability of any supporting roles such as Business change, Training leads, Data quality teams etc
 * **Clinical Commissioning Group** (CCG)
-* **New supplier** of the GP system
 * **Current supplier** of the GP system
 * **Surrounding and community services** - Pharmacies, Pathology labs, [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service), [GP2GP](https://digital.nhs.uk/services/gp2gp), [Summary Care Records (SCR)](https://digital.nhs.uk/services/summary-care-records-scr), Out of hours, 111 and any screening services etc
 * **Any third party system supplier** that integrates with your current system, for example, DocMan or Apollo Scan, DispensIT
+* **New supplier** of the GP system may attend the Kick-off, if they are available
 
 ## Schedule regular migration meetings
 
