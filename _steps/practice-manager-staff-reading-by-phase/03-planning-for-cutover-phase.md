@@ -52,4 +52,4 @@ group: practice-manager-staff-reading-by-phase
 
 #### Do you have a plan for how you will re-enter any data that is not migrated to the new system during the Cutover?
 
-* [Data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
+* [Data re-entry after Go-Live](/prm-practice-migration/guide/post-go-live#data-re-entry)

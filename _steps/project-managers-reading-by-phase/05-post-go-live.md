@@ -1,5 +1,5 @@
 ---
-title: Post Go Live
+title: Post Go-Live
 title_url:
 subtitle: 
 order: 5
@@ -14,7 +14,7 @@ group: project-manager-reading-by-phase
 
 * [Does the practice still have access to the old system?](/prm-practice-migration/guide/post-go-live#access-to-the-old-system)
 
-* [Does the practice have dedicated people and known methods for data re-entry after Go Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
+* [Does the practice have dedicated people and known methods for data re-entry after Go-Live](/prm-practice-migration/guide/post-go-live#data-re-entry)
 
 * [Has the tracking database been updated to confirm the date you have migrated and to indicate payments to suppliers can be made?](/prm-practice-migration/guide/end-of-migration#update-the-tracking-database) 
 

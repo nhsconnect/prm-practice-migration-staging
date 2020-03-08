@@ -31,7 +31,7 @@ __Lesson learnt__ - Remember to check that third party suppliers and services th
 
 {%- include inset.html content=lesson_learnt_3 accessibility_text="Lesson learnt" markdown=true -%}
 
-### Sign off Go Live Data 
+### Sign off Go-Live Data 
 
 On Go-Live day there will be data checking activities that you need to complete. If the practice is satisfied that all the data has been transferred and the migration is successful, sign off the live data and provide confirmation to the Supplier 
 

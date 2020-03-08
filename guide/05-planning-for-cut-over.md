@@ -81,7 +81,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ### Home visits  
 
-* Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go Live phase  
+* Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go-Live phase  
 
 
 

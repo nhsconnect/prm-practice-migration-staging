@@ -160,7 +160,7 @@ Insets are highlighting important content (like lessons learnt) in this guide. B
 
 ```
 {%- capture lesson_learnt_1 -%}
-__Recommendation__ The Personal Demographic Service and NHAIS can get out of sync. Thus the reconciliation and any outstanding registration for any patient needs to be done before Go Live. If not done before Go Live, patient information can be lost and it could also cause issues during data migration.
+__Recommendation__ The Personal Demographic Service and NHAIS can get out of sync. Thus the reconciliation and any outstanding registration for any patient needs to be done before Go-Live. If not done before Go-Live, patient information can be lost and it could also cause issues during data migration.
 {%- endcapture -%}
 ```
 

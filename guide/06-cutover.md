@@ -40,7 +40,7 @@ __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
 
 ### Configure devices
 
-Depending on which system the practice is migrating to, configuration of devices (eg. scanners, check-in and call waiting boards) may occur pre-Go-Live or on Go-Live day, however these generally cannot be connected to the new system until Go-Live day. This is usually completed by the delivery partner.  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go Live -->
+Depending on which system the practice is migrating to, configuration of devices (eg. scanners, check-in and call waiting boards) may occur pre-Go-Live or on Go-Live day, however these generally cannot be connected to the new system until Go-Live day. This is usually completed by the delivery partner.  <!-- [UPLIFT] added reference to some scenarios, where users can be set up in the Live system prior to Go-Live -->
 
 
 ### Hardware replacement

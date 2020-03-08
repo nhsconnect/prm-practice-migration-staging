@@ -1,5 +1,5 @@
 ---
-title: Cutover and Go Live
+title: Cutover and Go-Live
 title_url:
 subtitle: 
 order: 4
@@ -10,7 +10,7 @@ group: project-manager-reading-by-phase
 
 * [Does the practice have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/cutover-and-go-live#training-on-the-new-system)
 
-* [Has the Dictionary of Medication and Devices (dm+d) mapping been checked prior to Go Live?](/prm-practice-migration/guide/cutover-and-go-live#dictionary-of-medication-and-devices-mapping)
+* [Has the Dictionary of Medication and Devices (dm+d) mapping been checked prior to Go-Live?](/prm-practice-migration/guide/cutover-and-go-live#dictionary-of-medication-and-devices-mapping)
 
 * [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover-and-go-live#configure-devices)
 
