@@ -53,3 +53,22 @@ Online patient services such as the ability to book appointments online are made
 
 The previous system is now read-only. Practices will require access to this, however, for cross referencing data, validation and mapping. If you require an extended access period, this should be agreed with the CCG and the new supplier as this may incur additional costs (and is explained further in the next section of this guide).
 <!-- [UPLIFT] Reworded this part and removed references to 45 days -->
+
+## Process review
+
+As part of your process review, your supplier will submit reports to NHS Digital to help with the continuous improvement of the migration process.
+
+This is likely to include:
+
+* Mapping tables
+
+* Data migration
+
+* Provision of Documented Data Extract
+
+* Hazard Log and Clinical Safety Case
+
+* Issue Logs
+
+* Cut-over timescale
+
