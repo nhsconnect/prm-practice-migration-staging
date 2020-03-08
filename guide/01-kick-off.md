@@ -56,10 +56,11 @@ It is important that all staff are made aware of the upcoming changes, even if t
 
 Once the data migration approach and plans have been agreed by all parties, there is a need to complete a Clinical Risk Assessment to consider any risks to clinical and patient safety. If you consider there to be a material risk associated with the migration, you will need to escalate this through Service Management.
 
-{%- capture reporting_process -%} 
-The process for escalating migration issues under GP IT Futures is currently under review. As soon as the new Service Management process is finalised, we will let you know. 
-{%- endcapture -%}
-{%- include carecard.html content=reporting_process accessibility_text="Please note" heading="Please note" markdown=true -%}
+{%- capture service_management -%} 
+The process for escalating migration issues under GP IT Futures is currently in review. As soon as the new Service Management process is finalised, we will let you know. 
+{%- endcapture -%}
+{%- include carecard.html content=service_management accessibility_text="Please note" heading="Please note" markdown=true -%}
+
 
 ## Who, roles and responsibilities
 
