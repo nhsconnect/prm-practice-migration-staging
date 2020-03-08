@@ -69,6 +69,7 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/) 
 * [Subsidiary and third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, DispensIT - see below)
+* Check that the practice can order electronically from pharmacy suppliers from the new system and consider workaround solutions if this is not possible
 
 Some third party products suppliers may charge a fee to move the product license over to the new system. (e.g. CliniSys - Labs ICE test requesting) Check if there is a cost and who is expected to pay for this. Therefore allow additional time to raise invoices.
 
