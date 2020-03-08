@@ -27,7 +27,7 @@ A ‘Kick-off’ is a meeting where all the key people who will be involved in t
 * **Discuss** potential rollback scenarios and approach
 * **Detail** any system downtime and impact on core hours
 
-### For the Kick-off meeting, you should involve at a minimum...
+### For the Kick-off meeting, you should involve as a minimum...
 
 * **The Migration Project Manager** - This should be an official and agreed representative from your delivery partner (such as a CSU), the CCG or in some cases the Practice Manager or Lead GP. This person should be available from Day 1 until 45 days post migration to ensure nothing is missed during the Run-off period.
 * **Practice Managers** - Including any key staff members who play a role in managing/supporting the migration
