@@ -43,6 +43,8 @@ Now your new system is up and running you can contact all the connecting solutio
 
 * Complete the registration process for patients that joined the practice during the Cutover period
 
+* Re-enter data on the new system relating to dispensary stock and formularies, if required
+
 If you use any third party software as part of your solution, please be aware that reconfiguration work may be required by them now that the practice has migrated to the new clinical solution.
 
 
