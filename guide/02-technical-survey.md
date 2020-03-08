@@ -18,6 +18,8 @@ The survey is to check the current practice setup, focused mainly on the followi
 
    For dispensing practices, barcode scanner and label printer compatibility should also be checked and practices should note that if replacements are required the costs of these may be their responsibility. 
 
+   The practice also needs to be aware that it may need to re-enter dispensary stock into the new system (including min/max/re-order levels). If the practice has a prescribing formulary, it will not migrate automatically and will need to be set up on the new system again at Go-Live.
+
    Consider what new tech might be required as this may be a good time to request new kit from your delivery partner once approved by the CCG. 
 
 * **Network** – this should be checked in-line with the operating requirements of the new system.
