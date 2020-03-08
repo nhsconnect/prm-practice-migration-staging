@@ -73,7 +73,8 @@ This is likely to include:
 * Cut-over timescale
 
 {%- capture process_review_reports -%} 
-The process for submitting these reports to NHS is currently being finalised. As soon as the new process is ready, we will let you know. 
+The process for submitting these reports to NHS is currently being finalised. As soon as the new process is ready, we will let you know. 
 {%- endcapture -%}
 {%- include carecard.html content=process_review_reports accessibility_text="Please note" heading="Please note" markdown=true -%}
+
 
