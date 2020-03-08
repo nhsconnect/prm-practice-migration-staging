@@ -30,6 +30,8 @@ Additional data extractions should be carried out at the same time as the main o
 
 __The request needs to be completed as early as possible__. The current suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. __Any delays to giving notice may impact the migration timeline__.
 
+Check whether you will need to log off the system before the data extract is generated.
+
 ## Clean up the current system data {#clean-up-the-current-system-data}
 
 The new supplier, delivery partner or CCG can advise the practice on any common or known data issues when migrating to the new system. It is beneficial to review the quality of the data in the current system and carry out any required remedial actions before the first data extraction. This may reduce the amount of issues that are found during data checking and the subsequent work required to resolve these.
