@@ -50,8 +50,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 * Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration.  On [Final Data Production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), there must be zero tasks outstanding.
 
-* Ensure that all users know when to log off the current system so that the supplier can complete the Final Data Extraction
-
+* Check whether users need to log off the system before the supplier can complete the Final Data Extraction. If your users do need to log off in advance, ensure this is communicated to the team.
 
 
 ## Best practices and tactics for reducing the cut-over impact
