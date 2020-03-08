@@ -189,5 +189,7 @@ For any of the above, you may need to arrange for emergency/urgent activities to
 
 * Depending on which system you are migrating to, any patients (other than deceased) deducted before your Final Data Production may not migrate
 
-* We strongly recommend that practices draft in additional support/cover so that there is dedicated people/time for testing and re-entry
+* Make staff available for additional data re-entry, including the re-entry of dispenary stock (min/max/re-order levels) and formulary information.
 
+<!-- * We strongly recommend that practices draft in additional support/cover so that there is dedicated people/time for testing and re-entry --> 
+<!--Removed because NHSX felt we cannot ask practices to increase workforce and that it sounds prescriptive-->
