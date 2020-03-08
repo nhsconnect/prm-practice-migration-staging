@@ -52,7 +52,7 @@ The new supplier, delivery partner or CCG can advise the practice on any common 
 * Establishing which letter and data entry templates should be transferred into the new system. These will need to be manually copied over.
 
 {%- capture lesson_learnt_2 -%}
-__Lesson learnt__ - dm+d may only be available 1-2 days before Go Live and if the DM&D is not checked, it causes issues with Electronic Prescription Service after Go-Live. 
+__Lesson learnt__ - dm+d may only be available 1-2 days before Go Live and if the dm+d is not checked, it causes issues with Electronic Prescription Service after Go-Live. 
 {%- endcapture -%}
 
 {%- include inset.html content=lesson_learnt_2 accessibility_text="Lesson learnt" markdown=true -%}
