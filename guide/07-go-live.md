@@ -59,7 +59,7 @@ Practice staff may have already received [training for the new system](/prm-prac
 
 ## What to look out for
 
- * Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.  
+ <!--* Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.-->  
 
 * Each practice has its own [MESH](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh) inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
 
@@ -68,12 +68,12 @@ Practice staff may have already received [training for the new system](/prm-prac
 
 * New patients cannot complete registration until after the Cutoff period so you will need to ask them to come back after Go-Live.
 
-## Process review
+<!--## Process review
 
 As part of your process review, your supplier will submit reports to NHS Digital to help with the continuous improvement of the migration process.
 
 This is likely to include:
-<!-- [GAP] include reference to metrics dashboard inputs here -->
+
 * Mapping tables
 
 * Data migration
@@ -85,5 +85,6 @@ This is likely to include:
 * Issue Logs
 
 * Cut-over timescale
+-->
 
 
