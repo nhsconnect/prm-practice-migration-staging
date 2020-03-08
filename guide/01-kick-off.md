@@ -35,7 +35,7 @@ A ‘Kick-off’ is a meeting where all the key people who will be involved in t
 * **New system supplier** - The supplier of the new clinical system you are moving to
 * **A dedicated support person from your CCG** - Someone able to provide continuity of support and share lessons learned from other migrations
 
-**Note**: When the GP IT delivery partner (such as a CSU) is leading the migration, they may invite other personnel to the Kick-off such as Business Change, Training leads, Data Quality Leads etc. The core team involved in managing the migration will need to act as ‘change champions’, setting a positive example of the purpose and benefits to be achieved.
+**Note**: When the GP IT delivery partner (such as a CSU) is leading the migration, they may invite other personnel to the Kick-off such as Business Change, Training leads, Data Quality Leads etc. The core practice team involved in managing the migration will need to act as ‘change champions’, setting a positive example of the purpose and benefits to be achieved.
 
 ## Key milestones, activities, dates and targets
 
