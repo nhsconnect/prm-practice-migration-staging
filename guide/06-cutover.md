@@ -28,7 +28,7 @@ Practice staff will need to be logged off by the time given by the current suppl
 
 
 ### Manual processes are put in place
-[Refer back to the cut-over planning for further details of the processes](/prm-practice-migration/guide/planning-for-cut-over#appointments)
+[Refer back to the cut-over planning for further details of the processes](/prm-practice-migration/guide/planning-for-cut-over#best-practices-for-cutover)
 
 {%- capture lesson_learnt_1 -%}
 __Lesson learnt__ - Remember to include any Clinical staff who may work remotely
