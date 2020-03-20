@@ -8,7 +8,7 @@ group: practice-manager-staff-reading-by-phase
 
 * Do you have start/finish dates for the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
 
-* [Do you have a list and plan for each 3rd party service that will need to make changes during the Cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
+* [Do you have a list and plan for each 3rd party service that will need to make changes during the Cutover?](/prm-practice-migration/guide/pre-migration-tasks#notifying-third-parties-and-links)
 
 * Have you identified what letter templates you will need to recreate in the new system?
 
@@ -25,29 +25,29 @@ group: practice-manager-staff-reading-by-phase
 <!-- [Update] Links have been updated -->
 * [Appointments](/prm-practice-migration/guide/planning-for-cut-over#appointments)
 
-* [Consultations](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#consultations)
+* [Consultations](/prm-practice-migration/guide/planning-for-cut-over#consultations)
 
-* [Home visits](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#home-visits)
+* [Home visits](/prm-practice-migration/guide/planning-for-cut-over#home-visits)
 
-* [Telephone calls to patients](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#telephone-calls-to-patients)
+* [Telephone calls to patients](/prm-practice-migration/guide/planning-for-cut-over#telephone-calls-to-patients)
 
-* [Prescriptions](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#prescriptions)
+* [Prescriptions](/prm-practice-migration/guide/planning-for-cut-over#prescriptions)
 
-* [Pathology links](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#links)
+* [Pathology links](/prm-practice-migration/guide/planning-for-cut-over#links)
 
-* [Registration links](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#links)
+* [Registration links](/prm-practice-migration/guide/planning-for-cut-over#links)
 
-* [Referrals](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#referrals)
+* [Referrals](/prm-practice-migration/guide/planning-for-cut-over#referrals)
 
-* [Scanning](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#scanning)
+* [Scanning](/prm-practice-migration/guide/planning-for-cut-over#scanning)
 
-* [Bowel screening](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#bowel-screening)
+* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#bowel-screening)
 
-* [111 messages and any other incoming clinical correspondence](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#111-messagesincoming-clinical-correspondence--one-one-one-messages)
+* [111 messages and any other incoming clinical correspondence](/prm-practice-migration/guide/planning-for-cut-over#111-messagesincoming-clinical-correspondence--one-one-one-messages)
 
-* [Out of hours reports](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#out-of-hours-out-of-hours)
+* [Out of hours reports](/prm-practice-migration/guide/planning-for-cut-over#out-of-hours-out-of-hours)
 
-* [Summarisation and routine data entry](/prm-practice-migration/blob/master/guide/05-planning-for-cut-over.md#summarisation-and-routine-data-entry--summarisation)
+* [Summarisation and routine data entry](/prm-practice-migration/guide/planning-for-cut-over#summarisation-and-routine-data-entry--summarisation)
 
 
 #### Do you have a plan for how you will re-enter any data that is not migrated to the new system during the Cutover?
