@@ -38,7 +38,7 @@ group: practice-manager-staff-reading-by-phase
 
 **Have you notified 3rd party solutions and links?**
 
-* [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notification-of-third-parties-and-links)
+* [Notify 3rd parties and links](/prm-practice-migration/guide/pre-migration-tasks#notifying-third-parties-and-links)
 
 
 **Have you notified patients of any disruption or changes**
