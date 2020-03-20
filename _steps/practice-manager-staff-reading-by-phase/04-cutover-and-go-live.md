@@ -6,18 +6,16 @@ order: 4
 group: practice-manager-staff-reading-by-phase
 ---
 
-* [Do you have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/cutover-and-go-live#data-re-checking)
+* [Do you have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/cutover#data-re-checking)
 
-* [Do you have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/cutover-and-go-live#training-on-the-new-system)
+* [Do you have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/go-live#training-on-the-new-system)
 
-* [Has the Dictionary of Medication and Devices (dm+d) mapping been checked prior to Go-Live?](/prm-practice-migration/guide/cutover-and-go-live#dictionary-of-medication-and-devices-mapping)
-
-* [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover-and-go-live#configure-devices)
+* [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover#configure-devices)
 
 * [Has any incompatible equipment identified in the Technical Survey been replaced?](/prm-practice-migration/guide/technical-survey#outcome-of-the-technical-survey)
 
-* [Have smartcards been activated?](/prm-practice-migration/guide/cutover-and-go-live#activate-smartcards)
+* [Have smartcards been activated?](/prm-practice-migration/guide/cutover#activate-smartcards)
 
-* [Have registration links been checked?](/prm-practice-migration/guide/cutover-and-go-live#check-registration-links)
+* [Have all links been checked?](/prm-practice-migration/guide/go-live#switch-links-back-on)
 
 * Only sign off satisfied that all the data has been transferred and the migration is successful
