@@ -53,7 +53,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * Check whether users need to log off the system before the supplier can complete the Final Data Extraction. If your users do need to log off in advance, ensure this is communicated to the team.
 
 
-## Best practices and tactics for reducing the cut-over impact
+## Best practices and tactics for reducing the cut-over impact {#best-practices-for-cutover}
 
 
 ### Appointments  
