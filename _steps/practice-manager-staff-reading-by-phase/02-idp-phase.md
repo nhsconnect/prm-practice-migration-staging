@@ -6,13 +6,13 @@ order: 2
 group: practice-manager-staff-reading-by-phase
 ---
 
-#### Has your current supplier provided a extract of the patient data to the new supplier?
+#### Has your current supplier provided an extract of the patient data to the new supplier?
 
-* [Check that a request has been made and dates agreed](/prm-practice-migration/guide/get-started#request-data-extract)
+* [Check that a request has been made and dates agreed](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
 
 #### Do you have a list of patient records for testing/data checking?
 
-* Has the [new supplier provided a set of test criteria](/prm-practice-migration/guide/pre-migration-tasks#data-checking-prep) for identifying which patient records to test?
+* Has the [new supplier provided a set of test criteria](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) for identifying which patient records to test?
 
 * Have you used the criteria to identify patient records that match the criteria?
 
