@@ -35,7 +35,7 @@ __Lesson learnt__ - Remember to check that third party suppliers and services th
 
 On Go-Live day there will be data checking activities that you need to complete. If the practice is satisfied that all the data has been transferred and the migration is successful, sign off the live data and provide confirmation to the Supplier 
 
-### Switch links back on and notify 3rd parties
+### Switch links back on and notify 3rd parties {#switch-links-back-on}
 
 Now your new system is up and running you can contact all the connecting solutions and community services that the system/solution or the practice works with, to switch services back on, for example:
 
