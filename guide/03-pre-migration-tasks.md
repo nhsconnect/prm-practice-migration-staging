@@ -13,7 +13,7 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your current supplier {#request-data-extract}
 
-By now [a data extract should have been requested from the practice’s current supplier](/prm-practice-migration/guide/get-started#request-data-extract), and is normally carried out by the CCG/delivery partner on your behalf. The current supplier must provide this extract. Check with your CCG/delivery partner that the current supplier can provide the data on the date requested. If you made the request yourself then get confirmation directly from the current supplier. They must provide all the data extract(s) in the appropriate format according to the relevant data migration standard.
+By now [a data extract should have been requested from the practice’s current supplier](/prm-practice-migration/guide/get-started#request-a-data-extract-from-the-current-supplier), and is normally carried out by the CCG/delivery partner on your behalf. The current supplier must provide this extract. Check with your CCG/delivery partner that the current supplier can provide the data on the date requested. If you made the request yourself then get confirmation directly from the current supplier. They must provide all the data extract(s) in the appropriate format according to the relevant data migration standard.
 
 Complete additional data extract requests for any other clinical system supplier that you use since this data may not be included in the main one. For example, any document management and scanning solutions such as DocMan or anticoagulation management software such as INR Star. 
 
@@ -76,7 +76,7 @@ Some third party products suppliers may charge a fee to move the product license
 
 ## Subsidiary and Third party solution suppliers {#subsidiary-suppliers}
 
-It may be necessary to migrate data from subsidiary suppliers (also referred to as [Lot 1 services]((https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules)) as part of the migration (eg. DocMan or Apollo Scan for document scanning and management).
+It may be necessary to migrate data from subsidiary suppliers (also referred to as [Lot 1 services](https://digital.nhs.uk/services/gp-systems-of-choice/gpsoc-services#lot-1-gp-principal-clinical-systems-and-subsidiary-modules) as part of the migration (eg. DocMan or Apollo Scan for document scanning and management).
 
 __Regardless of whether you plan to migrate away from the subsidiary supplier or integrate with them, you will need to give notice to them of your system change__. The notice period required will vary depending on the system. 
 
