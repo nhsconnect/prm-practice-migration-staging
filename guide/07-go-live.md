@@ -55,7 +55,7 @@ The practice should re-check the patients identified and tested previously as pa
 Practice staff should recheck reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and the remapping of local codes.
 
 
-### Training on the new system
+### Training on the new system {#training-on-the-new-system}
 
 Practice staff may have already received [training for the new system](/prm-practice-migration/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
 
