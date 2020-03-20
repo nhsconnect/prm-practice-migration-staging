@@ -126,9 +126,9 @@ Discuss and plan any housekeeping tasks such as…
 
 * The appropriate management of duplicate and orphaned records which will not migrate to the new system (you may need to arrange a reconciliation with the PCSE to identify these)
 * Complete a review of letter and data entry templates to identify those that will need to be re-entered into the new system. **Note**: letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need to transfer
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration; as you approach the [Final Data Production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), you need to have zero tasks outstanding
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration; as you approach the [Final Data Production day](/prm-practice-migration/guide/cutover#what-to-expect-during-the-cutover), you need to have zero tasks outstanding
 
-Now is also a good time to introduce the [Data Checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and Preparation phase](early-prep-and-planning), such as finding patients that match the test criteria supplied by the new supplier.
+Now is also a good time to introduce the [Data Checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and Preparation phase](/prm-practice-migration/guide/planning-for-cut-over), such as finding patients that match the test criteria supplied by the new supplier.
 
 ### Technical survey and hardware {#technical-survey}
 
