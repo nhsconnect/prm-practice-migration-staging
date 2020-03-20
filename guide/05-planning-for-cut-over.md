@@ -48,7 +48,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 * New registrations cannot be entered during Cutover so the practice should ensure that these are held back for entry post Go-Live and also have a mechanism in place to record activities associated with new patients (eg. consultations or prescription requests, to enable entry after Go-Live).
 
-* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration.  On [Final Data Production day](/prm-practice-migration/guide/cutover-and-go-live#final-data-production), there must be zero tasks outstanding.
+* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration.  On [Final Data Production day](/prm-practice-migration/guide/cutover#what-to-expect-during-the-cutover), there must be zero tasks outstanding.
 
 * Check whether users need to log off the system before the supplier can complete the Final Data Extraction. If your users do need to log off in advance, ensure this is communicated to the team.
 
@@ -67,8 +67,6 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * If possible, reschedule data rich chronic disease clinics so that these are not taking place during the Cutover period.
 
 
-
-
 ### Consultations 
  
 * Carry on as normal entering notes in the current system and manually transfer these to the new system as part of the data re-entry process once you have gone live. Having Clinicians and staff to re-enter this data helps to reduce re-interpretation of what the data is meant to be.
@@ -78,11 +76,9 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * The practice should have access to the previous system for several weeks post Go-Live, however should this not be the case or you still have data to enter at the end of this period then the practice staff may need to print out the remaining consultations or data from the previous system.
 
 
-
 ### Home visits  
 
 * Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go-Live phase  
-
 
 
 ### Telephone calls to patients
