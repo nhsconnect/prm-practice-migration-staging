@@ -41,13 +41,13 @@ group: practice-manager-staff-reading-by-phase
 
 * [Scanning](/prm-practice-migration/guide/planning-for-cut-over#scanning)
 
-* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#bowel-screening)
+* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#screening)
 
-* [111 messages and any other incoming clinical correspondence](/prm-practice-migration/guide/planning-for-cut-over#111-messagesincoming-clinical-correspondence--one-one-one-messages)
+* [111 messages and any other incoming clinical correspondence](/prm-practice-migration/guide/planning-for-cut-over#one-one-one-messages)
 
-* [Out of hours reports](/prm-practice-migration/guide/planning-for-cut-over#out-of-hours-out-of-hours)
+* [Out of hours reports](/prm-practice-migration/guide/planning-for-cut-over#out-of-hours)
 
-* [Summarisation and routine data entry](/prm-practice-migration/guide/planning-for-cut-over#summarisation-and-routine-data-entry--summarisation)
+* [Summarisation and routine data entry](/prm-practice-migration/guide/planning-for-cut-over#summarisation)
 
 
 #### Do you have a plan for how you will re-enter any data that is not migrated to the new system during the Cutover?
