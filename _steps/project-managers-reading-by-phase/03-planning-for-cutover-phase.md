@@ -8,7 +8,7 @@ group: project-manager-reading-by-phase
 
 * Do you have start/finish dates for the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over)?
 
-* [Do you have a list and plan for each 3rd party service that will need to make changes during the Cutover?](/prm-practice-migration/guide/pre-migration-tasks#notification-of-3rd-parties-and-links)
+* [Do you have a list and plan for each 3rd party service that will need to make changes during the Cutover?](/prm-practice-migration/guide/pre-migration-tasks#notifying-third-parties-and-links)
 
 * Have you identified what letter templates will need to be recreated in the new system?
 
@@ -40,7 +40,7 @@ group: project-manager-reading-by-phase
 
 * [Scanning](/prm-practice-migration/guide/planning-for-cut-over#scanning)
 
-* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#bowel-screening)
+* [Bowel screening](/prm-practice-migration/guide/planning-for-cut-over#screening)
 
 * [111 messages and any other incoming clinical correspondence](/prm-practice-migration/guide/planning-for-cut-over#one-one-one-messages)
 
