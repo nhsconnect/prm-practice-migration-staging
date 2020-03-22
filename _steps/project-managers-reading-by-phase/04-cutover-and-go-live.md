@@ -6,18 +6,16 @@ order: 4
 group: project-manager-reading-by-phase
 ---
 
-* [Does the practice have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/cutover-and-go-live#data-re-checking)
+* [Does the practice have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/go-live#data-re-checking)
 
-* [Does the practice have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/cutover-and-go-live#training-on-the-new-system)
+* [Does the practice have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/go-live#training-on-the-new-system)
 
-* [Has the Dictionary of Medication and Devices (dm+d) mapping been checked prior to Go-Live?](/prm-practice-migration/guide/cutover-and-go-live#dictionary-of-medication-and-devices-mapping)
-
-* [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover-and-go-live#configure-devices)
+* [Have scanning devices, check in and call waiting boards been configured?](/prm-practice-migration/guide/cutover#configure-devices)
 
 * [Has any incompatible equipment identified in the Technical Survey been replaced?](/prm-practice-migration/guide/technical-survey#outcome-of-the-technical-survey)
 
-* [Have smartcards been activated?](/prm-practice-migration/guide/cutover-and-go-live#activate-smartcards)
+* [Have smartcards been activated?](/prm-practice-migration/guide/cutover#activate-smartcards)
 
-* [Have registration links been checked?](/prm-practice-migration/guide/cutover-and-go-live#check-registration-links)
+* [Has the practice notified any 3rd party services to switch their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-links-back-on) For example Electronic Prescription Service, Pathology and test labs
 
 * Once the practice is satisfied that all the data has been transferred and the migration is successful, have they provided 'sign off' to the new supplier?
