@@ -48,7 +48,7 @@ Now your new system is up and running you can contact all the connecting solutio
 If you use any third party software as part of your solution, please be aware that reconfiguration work may be required by them now that the practice has migrated to the new clinical solution.
 
 
-### Data re-checking
+### Data re-checking {#data-re-checking}
 
 The practice should re-check the patients identified and tested previously as part of the [initial data production](/prm-practice-migration/guide/initial-data-production) as well as random patients. 
 
