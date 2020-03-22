@@ -115,7 +115,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * With either of these options it is important that patients and pharmacies are informed of this change at the earliest opportunity to avoid any confusion
 
 
-### Registration and Pathology
+### Registration and Pathology {#links}
 
 * Recommended cut off periods for Registration and Pathology links will have been advised by  your CCG or delivery partner or the new system supplier.  The CCG or delivery partner may organise this with the relevant organisations on your behalf, but if not you will need to ensure that you have the correct contact details for this
 
