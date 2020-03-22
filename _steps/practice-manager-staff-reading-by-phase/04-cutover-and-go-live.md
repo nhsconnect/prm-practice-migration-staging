@@ -16,6 +16,6 @@ group: practice-manager-staff-reading-by-phase
 
 * [Have smartcards been activated?](/prm-practice-migration/guide/cutover#activate-smartcards)
 
-* [Have all links been checked?](/prm-practice-migration/guide/go-live#switch-links-back-on)
+* [Have you notified any 3rd party services to switch their services back on, pointing to the new system?](/prm-practice-migration/guide/post-go-live#switch-on-links) For example Electronic Prescription Service, Pathology and test labs
 
 * Only sign off satisfied that all the data has been transferred and the migration is successful
