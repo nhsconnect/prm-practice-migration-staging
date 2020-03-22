@@ -6,7 +6,7 @@ order: 4
 group: practice-manager-staff-reading-by-phase
 ---
 
-* [Do you have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/cutover#data-re-checking)
+* [Do you have a plan for who will perform the data re-checking and what they will test?](/prm-practice-migration/guide/go-live#data-re-checking)
 
 * [Do you have a training plan, rooms booked and trainer on site?](/prm-practice-migration/guide/go-live#training-on-the-new-system)
 
