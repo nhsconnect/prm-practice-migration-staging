@@ -1,19 +1,19 @@
 ---
 layout: page_with_sidebar
 permalink: /guide/planning-for-cut-over
-title: Planning for cut-over
+title: Planning for cutover
 subtitle: Preparation and activities to reduce the impact of the cut-over & data re-entry
 nextpage: /guide/cutover
 previouspage: /guide/initial-data-production
 breadcrumbparent: /guide
 ---
 
-## What is the cut-over?
+## What is the cutover?
 
 ‘Cutover’ is the period between Final Data Production from the current system and the Go-Live in the new system. 
 
 
-### During the cut-over
+### During the cutover
 
 * The new supplier will import the data into the new system
 
@@ -25,7 +25,7 @@ breadcrumbparent: /guide
 
 
 
-## Planning for the cut-over
+## Planning for the cutover
 
 During the ‘Planning for the Cutover’ phase, and **at least 4 weeks before the Final Data Production date,** the practice should gather all the key people who will be involved in the Cutover period to discuss how they will run the activities during this time. 
 
@@ -35,7 +35,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 
 
-## General preparation
+## General preparation {#general-prep}
 
 * [Notify all the 3rd parties (see reference in the 'Kick-off phase)](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and services to switch off links/communications 1-2 days prior to Final Data Production day. As highlighted in the Kick-off and Pre-migration Tasks stages.
  <!-- [UPLIFT] changed location of hyperlink -->
@@ -53,10 +53,10 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * Check whether users need to log off the system before the supplier can complete the Final Data Extraction. If your users do need to log off in advance, ensure this is communicated to the team.
 
 
-## Best practices and tactics for reducing the cut-over impact {#best-practices-for-cutover}
+## Best practices and tactics for reducing the cutover impact {#best-practices-for-cutover}
 
 
-### Appointments  
+### Appointments {#appointments}
 
 * Put breather slots in the rotas on the current system for the first few days post Go-Live. Putting these slots in the rotas on the current system ensures that these can be transferred to the rotas on the new system.
 
@@ -67,7 +67,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * If possible, reschedule data rich chronic disease clinics so that these are not taking place during the Cutover period.
 
 
-### Consultations 
+### Consultations {#consultations}
  
 * Carry on as normal entering notes in the current system and manually transfer these to the new system as part of the data re-entry process once you have gone live. Having Clinicians and staff to re-enter this data helps to reduce re-interpretation of what the data is meant to be.
 
@@ -76,12 +76,12 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * The practice should have access to the previous system for several weeks post Go-Live, however should this not be the case or you still have data to enter at the end of this period then the practice staff may need to print out the remaining consultations or data from the previous system.
 
 
-### Home visits  
+### Home visits {#home-visits}
 
 * Keep a record of requested visits so that you know which patients have data that need transferring once you are in the Post Go-Live phase  
 
 
-### Telephone calls to patients
+### Telephone calls to patients {#telephone-calls-to-patients}
 
 * Details of all telephone calls to patients, that result in an entry in the patient record must be noted as these entries will need to be entered in the new system post Go-Live.
 
@@ -92,7 +92,7 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 * In order to negate the risk of missed information it is useful to create a rota in the current system, , so that all the calls made can be logged. 
 
 
-### Prescriptions 
+### Prescriptions {#prescriptions} 
 
 * Within the Electronic Prescribing System (ePS), repeat dispensing prescriptions are issued individually by the prescribing system and signed and sent individually to Spine as required for the patient. There is a dependency on the prescribing system to retain the information after a migration as it needs to continue generating prescription issues for the authorised period.
 
