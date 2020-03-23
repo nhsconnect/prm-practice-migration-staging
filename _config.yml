@@ -17,8 +17,8 @@ title: GP Clinical System Migration Guide
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A 'How to...' guide on migrating from one clinical system to another
-baseurl: "/prm-practice-migration" # the subpath of your site, e.g. /blog
-url: "https://nhsconnect.github.io/prm-practice-migration" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/prm-practice-migration-staging" # the subpath of your site, e.g. /blog
+url: "https://nhsconnect.github.io/prm-practice-migration-staging" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
