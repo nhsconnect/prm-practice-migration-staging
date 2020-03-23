@@ -58,7 +58,7 @@ The process for ordering a new system under GP IT Futures is currently being fin
 
 ## Request a data extract from the current supplier {#request-a-data-extract-from-the-current-supplier}
 
-A formal data extract request needs to be sent to the current supplier of the clinical system using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase](/prm-practice-migration/guide/initial-data-production).
+A formal data extract request needs to be sent to the current supplier of the clinical system using the steps detailed below. This is a formal notification from the practice to the supplier for them to provide the data stored in the current clinical system. The extract will be used in the [Initial data production phase]({{ site.baseurl }}/guide/initial-data-production).
 
 **The request needs to be completed as early as possible.** The suppliers have varying lead times/notice periods to provide this data upon request; for example, a supplier may require up to 5 weeks notice. **Any delays to giving notice may impact the migration timeline.**
 
