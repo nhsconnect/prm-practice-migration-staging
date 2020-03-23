@@ -10,19 +10,19 @@ group: ccgs-reading-by-phase
 
 #### Do you have an agreed date for when the practice will Go-Live on the new system?
 
-* [Agree a provisional Go-Live date](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
+* [Agree a provisional Go-Live date]( {{site.baseurl}}/guide/get-started#agree-a-provisional-go-live-date)
 
-* [Checking the dates against availability](/prm-practice-migration/guide/kick-off#check-dates-against-availability)
+* [Checking the dates against availability]( {{site.baseurl}}/guide/kick-off#check-dates-against-availability)
 
-* [Securing the dates and peoples time](/prm-practice-migration/guide/kick-off#securing-dates-and-peoples-time)
+* [Securing the dates and peoples time]( {{site.baseurl}}/guide/kick-off#securing-dates-and-peoples-time)
 
-* [Has the new supplier confirmed the Go-Live date?](/prm-practice-migration/guide/get-started#agree-a-provisional-go-live-date)
+* [Has the new supplier confirmed the Go-Live date?]( {{site.baseurl}}/guide/get-started#agree-a-provisional-go-live-date)
 
-* [Has the current supplier been notified?](/prm-practice-migration/guide/get-started#request-a-data-extract-from-the-current-supplier)
+* [Has the current supplier been notified?]( {{site.baseurl}}/guide/get-started#request-a-data-extract-from-the-current-supplier)
 
 #### Has the practice had a Technical survey?
 
-* [What is a Technical survey?](/prm-practice-migration/guide/technical-survey)
+* [What is a Technical survey?]( {{site.baseurl}}/guide/technical-survey)
 
 * Did the Technical survey identify the need for additional hardware/software requirements?
 

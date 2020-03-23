@@ -37,18 +37,18 @@ The CCG and/or the delivery partner will usually be involved in this meeting and
 
 ## General preparation {#general-prep}
 
-* [Notify all the 3rd parties (see reference in the 'Kick-off phase)](/prm-practice-migration/guide/kick-off#notification-of-3rd-parties-and-links) and services to switch off links/communications 1-2 days prior to Final Data Production day. As highlighted in the Kick-off and Pre-migration Tasks stages.
+* [Notify all the 3rd parties (see reference in the 'Kick-off phase)]( {{site.baseurl}}/guide/kick-off#notification-of-3rd-parties-and-links) and services to switch off links/communications 1-2 days prior to Final Data Production day. As highlighted in the Kick-off and Pre-migration Tasks stages.
  <!-- [UPLIFT] changed location of hyperlink -->
 * Make back-ups of any local or third party systems/databases that are not backed up centrally by your current supplier
 
 * Ensure plans are in place for any migration or changes to subsidiary suppliers, for example DocMan or Apollo Scan for document scanning and management
-([see information in Pre-migration planning phase](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers))
+([see information in Pre-migration planning phase]( {{site.baseurl}}/guide/pre-migration-tasks#subsidiary-suppliers))
 
 * Export any letter templates and clinical templates to Microsoft Word from the current system so that they can be imported to the new system at Go-Live. Trainers should be able to assist with this process.
 
 * New registrations cannot be entered during Cutover so the practice should ensure that these are held back for entry post Go-Live and also have a mechanism in place to record activities associated with new patients (eg. consultations or prescription requests, to enable entry after Go-Live).
 
-* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration.  On [Final Data Production day](/prm-practice-migration/guide/cutover#what-to-expect-during-the-cutover), there must be zero tasks outstanding.
+* Clear down any inboxes and outstanding workflows and all open communication tasks, such as pathology and registration.  On [Final Data Production day]( {{site.baseurl}}/guide/cutover#what-to-expect-during-the-cutover), there must be zero tasks outstanding.
 
 * Check whether users need to log off the system before the supplier can complete the Final Data Extraction. If your users do need to log off in advance, ensure this is communicated to the team.
 

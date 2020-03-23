@@ -38,7 +38,7 @@ The Technical Survey may be completed by either:
 
 **Make sure you know who will complete this activity.** It might be carried out onsite or remotely.
 
-[As previously noted](/prm-practice-migration/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that they have contacted their third party software suppliers to check if the software is compatible with the new system and agree any actions required for implementation. The new supplier or delivery partner/CCG may be aware of the compatibility/incompatibility of common 3rd party applications but is not accountable for confirming.
+[As previously noted]( {{site.baseurl}}/guide/kick-off#technical-survey), it is the responsibility of the practice to ensure that they have contacted their third party software suppliers to check if the software is compatible with the new system and agree any actions required for implementation. The new supplier or delivery partner/CCG may be aware of the compatibility/incompatibility of common 3rd party applications but is not accountable for confirming.
 
 ## The outcome of the Technical Survey {#outcome-of-the-technical-survey}
 

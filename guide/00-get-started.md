@@ -68,12 +68,12 @@ This will also need to be completed for any other supplier who will need to migr
 
 1. A request is made to the current supplier to provide a ‘Data extract request form’ or similar. This is usually sent by the delivery partner (CSU) but this may differ by region.
 2. The current supplier will send a ‘data extract request form’ (or similar) directly to the practice.
-3. The practice completes and returns the form to the current supplier along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the [Initial data production](/prm-practice-migration/guide/initial-data-production) phase).
+3. The practice completes and returns the form to the current supplier along with the dates of when the extract is to be delivered as advised by the new supplier (Dates for the [Initial data production]( {{site.baseurl}}/guide/initial-data-production ) phase).
 4. The current supplier will ensure that the data is transferred to the new supplier safely and securely.
 
 
 ## Arrange your Kick-off and Technical Survey
 
-Plan and book the [Kick-off meeting](/prm-practice-migration/guide/kick-off) that should include all key people who will be involved in the migration process (refer to list in the Kick-off section). Decide when to set up the [Technical Survey](/prm-practice-migration/guide/technical-survey) shortly after the Kick-off meeting has taken place. Some delivery partners conduct Technical Surveys remotely and do not necessarily need to be on site.
+Plan and book the [Kick-off meeting]( {{site.baseurl}}/guide/kick-off) that should include all key people who will be involved in the migration process (refer to list in the Kick-off section). Decide when to set up the [Technical Survey]( {{site.baseurl}}/guide/technical-survey ) shortly after the Kick-off meeting has taken place. Some delivery partners conduct Technical Surveys remotely and do not necessarily need to be on site.
 
 

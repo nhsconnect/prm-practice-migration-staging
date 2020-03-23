@@ -50,14 +50,14 @@ If you use any third party software as part of your solution, please be aware th
 
 ### Data re-checking {#data-re-checking}
 
-The practice should re-check the patients identified and tested previously as part of the [initial data production](/prm-practice-migration/guide/initial-data-production) as well as random patients. 
+The practice should re-check the patients identified and tested previously as part of the [initial data production]( {{site.baseurl}}/guide/initial-data-production) as well as random patients. 
 
 Practice staff should recheck reports such as QOF and indicator points, cytology and immunisation target reports, capitation figures and the remapping of local codes.
 
 
 ### Training on the new system {#training-on-the-new-system}
 
-Practice staff may have already received [training for the new system](/prm-practice-migration/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
+Practice staff may have already received [training for the new system]( {{site.baseurl}}/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
 
 ## What to look out for
 

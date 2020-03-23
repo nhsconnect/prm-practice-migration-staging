@@ -13,7 +13,7 @@ This is the time to start completing the items discussed in the Kick-off.
 
 ## Request a data extract from your current supplier {#request-data-extract}
 
-By now [a data extract should have been requested from the practice’s current supplier](/prm-practice-migration/guide/get-started#request-a-data-extract-from-the-current-supplier), and is normally carried out by the CCG/delivery partner on your behalf. The current supplier must provide this extract. Check with your CCG/delivery partner that the current supplier can provide the data on the date requested. If you made the request yourself then get confirmation directly from the current supplier. They must provide all the data extract(s) in the appropriate format according to the relevant data migration standard.
+By now [a data extract should have been requested from the practice’s current supplier]( {{site.baseurl}}/guide/get-started#request-a-data-extract-from-the-current-supplier), and is normally carried out by the CCG/delivery partner on your behalf. The current supplier must provide this extract. Check with your CCG/delivery partner that the current supplier can provide the data on the date requested. If you made the request yourself then get confirmation directly from the current supplier. They must provide all the data extract(s) in the appropriate format according to the relevant data migration standard.
 
 Complete additional data extract requests for any other clinical system supplier that you use since this data may not be included in the main one. For example, any document management and scanning solutions such as DocMan or anticoagulation management software such as INR Star. 
 
@@ -68,7 +68,7 @@ Refer back to the list created at the Kick-off of all the supporting/connecting 
 * Pathology labs and any other services or providers that send information and results automatically to the current system (eg. screening services, Hospital letters, 111, Out of hours)
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/) 
-* [Subsidiary and third party solution suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, DispensIT - see below)
+* [Subsidiary and third party solution suppliers]( {{site.baseurl}}/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, DispensIT - see below )
 * Check that the practice can order electronically from pharmacy suppliers from the new system and consider workaround solutions if this is not possible
 
 Some third party products suppliers may charge a fee to move the product license over to the new system. (e.g. CliniSys - Labs ICE test requesting) Check if there is a cost and who is expected to pay for this. Therefore allow additional time to raise invoices.

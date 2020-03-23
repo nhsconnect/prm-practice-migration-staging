@@ -39,7 +39,7 @@ A ‘Kick-off’ is a meeting where all the key people who will be involved in t
 
 ## Key milestones, activities, dates and targets
 
-By now you should have agreed on your Go-Live date. Take a look at the [key phases](/prm-practice-migration/guide#overview-of-key-phases) and put dates in your plan of when these activities need to be completed (use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. 
+By now you should have agreed on your Go-Live date. Take a look at the [key phases]( {{site.baseurl}}/guide#overview-of-key-phases) and put dates in your plan of when these activities need to be completed (use the content on this site to guide you). It is worthwhile stepping through each of the phases and making sure that everyone is aligned on what the phase objective is and what the key activities are within them. 
 
 For example, you should have a plan for the following dates:
 * Technical Survey (if not already arranged)
@@ -99,13 +99,13 @@ Look at your key dates and the people you need:
 * Do staff have pre-booked holidays or training planned?
 * Are there any planned events or surgeries during this time that suggest the practice may be busier than usual?
 
-The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over#what-is-the-cut-over) (and 2 days after Go-Live) and secure the availability of as many members of the practice team to support the migration as possible.
+The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cut-over) (and 2 days after Go-Live) and secure the availability of as many members of the practice team to support the migration as possible.
 
 ###  Securing dates and people’s time {#securing-dates-and-peoples-time}
 
 * Block time if required for key dates
 * Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
-* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period](/prm-practice-migration/guide/planning-for-cut-over#what-is-the-cut-over) that may increase the workload of the practice (e.g. Asthma reviews)
+* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cut-over) that may increase the workload of the practice (e.g. Asthma reviews)
 * Pre-book rooms for training, testing and any other migration activity
 * Put breather slots in the rotas in the current system for the first couple of weeks post Go-Live if your clinicians are not familiar with the new supplier system.
 
@@ -126,13 +126,13 @@ Discuss and plan any housekeeping tasks such as…
 
 * The appropriate management of duplicate and orphaned records which will not migrate to the new system (you may need to arrange a reconciliation with the PCSE to identify these)
 * Complete a review of letter and data entry templates to identify those that will need to be re-entered into the new system. **Note**: letter and data entry templates will need to be manually copied over. Completing this review will make it easier to identify which templates you need to transfer
-* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration; as you approach the [Final Data Production day](/prm-practice-migration/guide/cutover#what-to-expect-during-the-cutover), you need to have zero tasks outstanding
+* Clearing down the practice inboxes, outstanding workflows and all open communication tasks, for example, pathology and registration; as you approach the [Final Data Production day]( {{site.baseurl}}/guide/cutover#what-to-expect-during-the-cutover), you need to have zero tasks outstanding
 
-Now is also a good time to introduce the [Data Checking tasks](/prm-practice-migration/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and Preparation phase](/prm-practice-migration/guide/planning-for-cut-over), such as finding patients that match the test criteria supplied by the new supplier.
+Now is also a good time to introduce the [Data Checking tasks]( {{site.baseurl}}/guide/pre-migration-tasks#data-checking-preparation) and what the practice will need to do during the [Planning and Preparation phase]( {{site.baseurl}}/guide/planning-for-cut-over ), such as finding patients that match the test criteria supplied by the new supplier.
 
 ### Technical survey and hardware {#technical-survey}
 
-If the practice is not already aware, the [Technical Survey](/prm-practice-migration/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the practice and CCG are aware of this possibility before the Technical Survey is completed.
+If the practice is not already aware, the [Technical Survey]( {{site.baseurl}}/guide/technical-survey) (try to schedule this shortly after the Kick-off) may result in the identification of new or additional hardware being required for purchase and unexpected costs. This may not apply in all cases. You may want to highlight this early so that the practice and CCG are aware of this possibility before the Technical Survey is completed.
 
 Compile a list of third party software that integrates with the current system.
 
@@ -145,7 +145,7 @@ Make a list of all the supporting/connecting systems and community services that
 * Pathology labs and any other services or providers that send information and results automatically to the current system. (eg. bowel screening, hospital letters, 111, Out of hours)
 * Pharmacies
 * [Primary Care Support England](https://pcse.england.nhs.uk/)
-* [Third party system suppliers](/prm-practice-migration/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, AccuRx, DispensIT, eConsultation provider)
+* [Third party system suppliers]( {{site.baseurl}}/guide/pre-migration-tasks#subsidiary-suppliers), (eg. DocMan or Apollo Scan for document scanning and management, AccuRx, DispensIT, eConsultation provider)
 
 <!--removed based on user feedback
 * [Electronic Prescription Service (EPS)](https://digital.nhs.uk/services/electronic-prescription-service)
