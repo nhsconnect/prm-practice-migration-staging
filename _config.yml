@@ -27,7 +27,8 @@ theme:
 plugins:
   - jekyll-feed
 
-
+exclude:
+  - tech
 collections:
   steps:
     output: false
