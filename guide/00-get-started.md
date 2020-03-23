@@ -9,7 +9,7 @@ nextpage: /guide/kick-off
 
 ## The decision to migrate and funding {#decision-to-migrate-and-funding}
 
---Test-- When ordering a new system, check that you have thoroughly reviewed the system to ensure that it fully meets your needs. You may incur penalty charges if you decide to cancel a migration after the order has been placed. 
+When ordering a new system, check that you have thoroughly reviewed the system to ensure that it fully meets your needs. You may incur penalty charges if you decide to cancel a migration after the order has been placed. 
 
 This guide begins from the point at which the CCG has approved the practice’s request to change their current system and is ready to start the migration process.
 
