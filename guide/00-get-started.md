@@ -26,7 +26,7 @@ The selection process under GP IT Futures is currently being finalised. As soon 
 * Completion of a [business justification template](https://www.england.nhs.uk/publication/business-justification-guidance-for-change-of-gp-it-futures-foundation-solution-template/) for a change of GP IT Future foundation solution
 * Confirmation and approval of funding by CCGs (and any local boards) for both the migration and any associated costs such as training and core hardware/software upgrades
    
-    **Note:** there may be [further costs identified by the Technical Survey](/prm-practice-migration/guide/technical-survey) for replacing hardware and setting up additional third party configuration. These should be considered by the CCG as quickly as possible to ensure availability of funding in line with the timing of the migration.
+    **Note:** there may be [further costs identified by the Technical Survey]{% link guide/02-technical-survey.md %} for replacing hardware and setting up additional third party configuration. These should be considered by the CCG as quickly as possible to ensure availability of funding in line with the timing of the migration.
 * Engagement of practice and CCG with their delivery partner to secure support and management of the migration process in line with the [Primary Care GP (Digital Services) Operating Model](https://www.england.nhs.uk/digitaltechnology/digital-primary-care/securing-excellence-in-primary-care-digital-services/)
 
 
