@@ -105,7 +105,7 @@ The aim is to ensure a successful migration and limit the impact on the practice
 
 * Block time if required for key dates
 * Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
-* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cutover#what-is-the-cut-over) that may increase the workload of the practice (e.g. Asthma reviews)
+* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cutover) that may increase the workload of the practice (e.g. Asthma reviews)
 * Pre-book rooms for training, testing and any other migration activity
 * Put breather slots in the rotas in the current system for the first couple of weeks post Go-Live if your clinicians are not familiar with the new supplier system.
 
