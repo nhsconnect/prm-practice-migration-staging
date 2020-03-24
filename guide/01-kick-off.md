@@ -99,13 +99,13 @@ Look at your key dates and the people you need:
 * Do staff have pre-booked holidays or training planned?
 * Are there any planned events or surgeries during this time that suggest the practice may be busier than usual?
 
-The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cut-over) (and 2 days after Go-Live) and secure the availability of as many members of the practice team to support the migration as possible.
+The aim is to ensure a successful migration and limit the impact on the practice by reducing the amount of practice activity happening during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cutover) (and 2 days after Go-Live) and secure the availability of as many members of the practice team to support the migration as possible.
 
 ###  Securing dates and people’s time {#securing-dates-and-peoples-time}
 
 * Block time if required for key dates
 * Encourage staff to keep these dates free and if possible avoid booking holidays on these dates
-* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cut-over#what-is-the-cut-over) that may increase the workload of the practice (e.g. Asthma reviews)
+* If possible, and alternative dates are available, avoid planning any events or data rich chronic disease clinics during the [Cutover period]( {{site.baseurl}}/guide/planning-for-cutover#what-is-the-cut-over) that may increase the workload of the practice (e.g. Asthma reviews)
 * Pre-book rooms for training, testing and any other migration activity
 * Put breather slots in the rotas in the current system for the first couple of weeks post Go-Live if your clinicians are not familiar with the new supplier system.
 

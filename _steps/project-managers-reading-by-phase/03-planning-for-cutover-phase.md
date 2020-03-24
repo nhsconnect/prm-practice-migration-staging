@@ -24,7 +24,7 @@ group: project-manager-reading-by-phase
 
 * [Appointments]( {{site.baseurl}}/guide/planning-for-cut-over#appointments)
 
-* [Consultations]( {{site.baseurl}}/guide/planning-for-cut-over#consulations)
+* [Consultations]( {{site.baseurl}}/guide/planning-for-cut-over#consultations)
 
 * [Home visits]( {{site.baseurl}}/guide/planning-for-cut-over#home-visits)
 
