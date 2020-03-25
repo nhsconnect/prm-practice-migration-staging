@@ -59,14 +59,13 @@ Practice staff should recheck reports such as QOF and indicator points, cytology
 
 Practice staff may have already received [training for the new system]( {{site.baseurl}}/guide/training) or may receive it during the Cut-over period, including training for any changes to practice processes.  
 
+
 ## What to look out for
-
  <!--* Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.-->  
-
-* Each practice has its own [MESH](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh) inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.  
-
+<!-- [UPDATE] removed MESH info and fixing degraded codes info; already in cutover page]
+* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.
 * Fixing degraded codes could take the practice some time.
-<!-- [UPLIFT] reworded the language here -->
+-->
 
 * New patients cannot complete registration until after the Cutoff period so you will need to ask them to come back after Go-Live.
 
