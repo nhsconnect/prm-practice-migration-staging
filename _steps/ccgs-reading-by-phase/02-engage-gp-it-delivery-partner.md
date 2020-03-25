@@ -17,8 +17,7 @@ group: ccgs-reading-by-phase
 * [Securing the dates and peoples time]( {{site.baseurl}}/guide/kick-off#securing-dates-and-peoples-time)
 
 * [Has the new supplier confirmed the Go-Live date?]( {{site.baseurl}}/guide/get-started#agree-a-provisional-go-live-date)
-
-* [Has the current supplier been notified?]( {{site.baseurl}}/guide/get-started#request-a-data-extract-from-the-current-supplier)
+<!-- [Gap] Removed "Has the current supplier been notified?" question from the list until a newer GPITF process is in place. -->
 
 #### Has the practice had a Technical survey?
 
