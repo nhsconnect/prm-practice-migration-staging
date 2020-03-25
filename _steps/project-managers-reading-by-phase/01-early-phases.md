@@ -1,7 +1,7 @@
 ---
-title: Early phases
+title: Early phases (Decision to migrate - Pre-migration tasks)
 title_url:
-subtitle: Decision to migrate - Pre-migration tasks
+subtitle: 
 order: 1
 group: project-manager-reading-by-phase
 ---
