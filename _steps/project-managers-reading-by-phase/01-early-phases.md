@@ -15,9 +15,7 @@ group: project-manager-reading-by-phase
 * [Securing the dates and people's time]( {{site.baseurl}}/guide/kick-off#securing-dates-and-peoples-time)
 
 * [Has the new supplier confirmed the Go-Live date?]( {{site.baseurl}}/guide/get-started#agree-a-provisional-go-live-date)
-
-* [Has the current supplier been notified?]( {{site.baseurl}}/guide/get-started)
-
+<!-- [Gap] Removed "Has the current supplier been notified?" question from the list until a newer GPITF process is in place. -->
 
 #### Has the Practice requested an extract of the current data?
 
