@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-title: Practice managers and staff
+title: Practice managers & staff
 permalink: /guide/role/practice-staff
 ---
 
