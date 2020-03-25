@@ -33,7 +33,7 @@ group: project-manager-reading-by-phase
 
 * [Does the practice have a plan for the data checking phases?]( {{site.baseurl}}/guide/initial-data-production#data-checking)
 
-* [Is a reconcilitation needed with the Personal Demographics Service (PDS)?]( {{site.baseurl}}/guide/pre-migration-tasks#clean-up-the-current-system-data)
+* [Have you checked the patient list against the Primary Care Support England (PCSE) database?]( {{site.baseurl}}/guide/pre-migration-tasks#clean-up-the-current-system-data)
 
 * Do you have booked rooms for Initial Data Production meetings, training and data checking activities?
 
