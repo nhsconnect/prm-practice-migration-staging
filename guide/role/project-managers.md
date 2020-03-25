@@ -1,6 +1,6 @@
 ---
 layout: page_with_sidebar
-title: Project managers and GP IT delivery partners
+title: Project managers & GP IT delivery partners
 permalink: /guide/role/project-managers
 ---
 
