@@ -66,22 +66,15 @@ Practice staff may have already received [training for the new system]( {{site.b
  <!--* Confirm your Go-Live date with the new supplier again to make sure there is no change in their schedules.-->  
 <!-- [UPDATE] removed MESH info and fixing degraded codes info; already in cutover page]* Each practice has its own MESH inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.* Fixing degraded codes could take the practice some time.
 -->
+
 <!--## Process review
-
 As part of your process review, your supplier will submit reports to NHS Digital to help with the continuous improvement of the migration process.
-
 This is likely to include:
-
 * Mapping tables
-
 * Data migration
-
 * Provision of Documented Data Extract
-
 * Hazard Log and Clinical Safety Case
-
 * Issue Logs
-
 * Cut-over timescale
 -->
 
