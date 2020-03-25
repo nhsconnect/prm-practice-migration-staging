@@ -40,7 +40,7 @@ The new supplier or delivery partner should provide brief basic training on the 
 The following activities should have been completed in advance…
 
 * The [data extract has been requested from the existing supplier in advance]( {{site.baseurl}}/guide/get-started#request-a-data-extract-from-the-current-supplier)
-* The practice has identified the patient records matching criteria provided by the new supplier for testing  ([see Pre-migration tasks]( {{site.baseurl}}/guide/pre-migration-tasks#data-checking-preparation))
+* The practice has identified the patient records matching criteria provided by the new supplier for testing  ([see data checking preparation section in Pre-migration tasks]( {{site.baseurl}}/guide/pre-migration-tasks#data-checking-preparation))
 * Rooms have been booked for initial data production meetings, training and data checking activities
 
 ### Data checking phases
