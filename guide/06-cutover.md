@@ -61,7 +61,7 @@ This is the time to enter all future booked appointments that were added to the 
 
 * Staff availability for Cutover tasks.
 
-* Each practice has its own [MESH](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh) inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.
+* Each practice has its own [Message Exchange for Social Care and Health (MESH)](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh) inbox/queue/secure file transfer. When MESH changes, teams need to inform partner services of the change in address.
 
 * Fixing degraded codes could take the practice some time.
 
